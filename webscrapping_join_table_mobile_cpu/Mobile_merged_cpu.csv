@@ -1,0 +1,1040 @@
+品牌,名稱,處理器,Processor,Rating,AnTuTu 9,Geekbench 5 single,Geekbench 5 multi,Cores,Clock(MHz)
+Apple,Apple iPhone 7 256GB,A10,A10,40,303556,781,1414,4,2340
+Apple,Apple iPhone 7 32GB,A10,A10,40,303556,781,1414,4,2340
+Apple,Apple iPhone 7 128GB,A10,A10,40,303556,781,1414,4,2340
+Apple,Apple iPhone 7 Plus 128GB,A10,A10,40,303556,781,1414,4,2340
+Apple,Apple iPhone 7 Plus 256GB,A10,A10,40,303556,781,1414,4,2340
+Apple,Apple iPhone 7 Plus (PRODUCT)RED Special Edition 256GB,A10,A10,40,303556,781,1414,4,2340
+Apple,Apple iPhone 7 Plus 32GB,A10,A10,40,303556,781,1414,4,2340
+Apple,Apple iPhone 7 Plus (PRODUCT) RED Special Edition 128GB,A10,A10,40,303556,781,1414,4,2340
+Apple,Apple iPhone 8 Plus (PRODUCT) RED Special Edition 64GB,A11,A11,51,385397,928,2351,6,2390
+Apple,Apple iPhone 8 256GB,A11,A11,51,385397,928,2351,6,2390
+Apple,Apple iPhone 8 Plus (PRODUCT) RED Special Edition 256GB,A11,A11,51,385397,928,2351,6,2390
+Apple,Apple iPhone 8 Plus 64GB,A11,A11,51,385397,928,2351,6,2390
+Apple,Apple iPhone X 64GB,A11,A11,51,385397,928,2351,6,2390
+Apple,Apple iPhone 8 (PRODUCT) RED Special Edition 64GB,A11,A11,51,385397,928,2351,6,2390
+Apple,Apple iPhone 8 128GB,A11,A11,51,385397,928,2351,6,2390
+Apple,Apple iPhone 8 Plus 128GB,A11,A11,51,385397,928,2351,6,2390
+Apple,Apple iPhone 8 64GB,A11,A11,51,385397,928,2351,6,2390
+Apple,Apple iPhone 8 (PRODUCT) RED Special Edition 256GB,A11,A11,51,385397,928,2351,6,2390
+Apple,Apple iPhone 8 Plus 256GB,A11,A11,51,385397,928,2351,6,2390
+Apple,Apple iPhone X 256GB,A11,A11,51,385397,928,2351,6,2390
+Apple,Apple iPhone XR 256GB,A12,A12,69,531439,1124,2919,6,2490
+Apple,Apple iPhone XS 512GB,A12,A12,69,531439,1124,2919,6,2490
+Apple,Apple iPhone XR 64GB,A12,A12,69,531439,1124,2919,6,2490
+Apple,Apple iPhone XS Max 256GB,A12,A12,69,531439,1124,2919,6,2490
+Apple,Apple iPhone XS 256GB,A12,A12,69,531439,1124,2919,6,2490
+Apple,Apple iPhone XS 64GB,A12,A12,69,531439,1124,2919,6,2490
+Apple,Apple iPhone XS Max 64GB,A12,A12,69,531439,1124,2919,6,2490
+Apple,Apple iPhone XR 128GB,A12,A12,69,531439,1124,2919,6,2490
+Apple,Apple iPhone XS Max 512GB,A12,A12,69,531439,1124,2919,6,2490
+Apple,Apple iPhone SE (第2代) 256GB,A13,A13,81,614582,1336,3515,6,2660
+Apple,Apple iPhone SE (第2代) 64GB,A13,A13,81,614582,1336,3515,6,2660
+Apple,Apple iPhone 11 Pro 64GB,A13,A13,81,614582,1336,3515,6,2660
+Apple,Apple iPhone 11 Pro Max 64GB,A13,A13,81,614582,1336,3515,6,2660
+Apple,Apple iPhone 11 Pro Max 512GB,A13,A13,81,614582,1336,3515,6,2660
+Apple,Apple iPhone 11 Pro 512GB,A13,A13,81,614582,1336,3515,6,2660
+Apple,Apple iPhone SE (第2代) 128GB,A13,A13,81,614582,1336,3515,6,2660
+Apple,Apple iPhone 11 Pro 256GB,A13,A13,81,614582,1336,3515,6,2660
+Apple,Apple iPhone 11 256GB,A13,A13,81,614582,1336,3515,6,2660
+Apple,Apple iPhone 11 Pro Max 256GB,A13,A13,81,614582,1336,3515,6,2660
+Apple,Apple iPhone 11 64GB,A13,A13,81,614582,1336,3515,6,2660
+Apple,Apple iPhone 11 128GB,A13,A13,81,614582,1336,3515,6,2660
+Apple,Apple iPhone 12 mini 64GB,A14,A14,93,731756,1606,4134,6,3100
+Apple,Apple iPhone 12 64GB,A14,A14,93,731756,1606,4134,6,3100
+Apple,Apple iPhone 12 Pro Max 512GB,A14,A14,93,731756,1606,4134,6,3100
+Apple,Apple iPhone 12 Pro 256GB,A14,A14,93,731756,1606,4134,6,3100
+Apple,Apple iPhone 12 Pro 128GB,A14,A14,93,731756,1606,4134,6,3100
+Apple,Apple iPhone 12 256GB,A14,A14,93,731756,1606,4134,6,3100
+Apple,Apple iPhone 12 mini 128GB,A14,A14,93,731756,1606,4134,6,3100
+Apple,Apple iPhone 12 Pro 512GB,A14,A14,93,731756,1606,4134,6,3100
+Apple,Apple iPhone 12 mini 256GB,A14,A14,93,731756,1606,4134,6,3100
+Apple,Apple iPhone 12 Pro Max 256GB,A14,A14,93,731756,1606,4134,6,3100
+Apple,Apple iPhone 12 Pro Max 128GB,A14,A14,93,731756,1606,4134,6,3100
+Apple,Apple iPhone 12 128GB,A14,A14,93,731756,1606,4134,6,3100
+Apple,Apple iPhone 13 Pro Max 1TB,A15,A15,97,801356,1745,4729,6,3223
+Apple,Apple iPhone SE (第3代) 128GB,A15,A15,97,801356,1745,4729,6,3223
+Apple,Apple iPhone 13 mini 128GB,A15,A15,97,801356,1745,4729,6,3223
+Apple,Apple iPhone SE (第3代) 256GB,A15,A15,97,801356,1745,4729,6,3223
+Apple,Apple iPhone 13 mini 512GB,A15,A15,97,801356,1745,4729,6,3223
+Apple,Apple iPhone 13 mini 256GB,A15,A15,97,801356,1745,4729,6,3223
+Apple,Apple iPhone 13 Pro Max 128GB,A15,A15,97,801356,1745,4729,6,3223
+Apple,Apple iPhone SE (第3代) 64GB,A15,A15,97,801356,1745,4729,6,3223
+Apple,Apple iPhone 13 Pro Max 256GB,A15,A15,97,801356,1745,4729,6,3223
+Apple,Apple iPhone 13 Pro 512GB,A15,A15,97,801356,1745,4729,6,3223
+Apple,Apple iPhone 13 Pro Max 512GB,A15,A15,97,801356,1745,4729,6,3223
+Apple,Apple iPhone 13 Pro 128GB,A15,A15,97,801356,1745,4729,6,3223
+Apple,Apple iPhone 13 Pro 1TB,A15,A15,97,801356,1745,4729,6,3223
+Apple,Apple iPhone 13 256GB,A15,A15,97,801356,1745,4729,6,3223
+Apple,Apple iPhone 13 128GB,A15,A15,97,801356,1745,4729,6,3223
+Apple,Apple iPhone 13 Pro 256GB,A15,A15,97,801356,1745,4729,6,3223
+Apple,Apple iPhone 13 512GB,A15,A15,97,801356,1745,4729,6,3223
+Apple,Apple iPhone 6s 32GB,A9,A9,31,205197,533,978,2,1850
+Apple,Apple iPhone SE (第1代) 16GB,A9,A9,31,205197,533,978,2,1850
+Apple,Apple iPhone 6s Plus 64GB,A9,A9,31,205197,533,978,2,1850
+Apple,Apple iPhone SE (第1代) 32GB,A9,A9,31,205197,533,978,2,1850
+Apple,Apple iPhone 6s 64GB,A9,A9,31,205197,533,978,2,1850
+Apple,Apple iPhone 6s Plus 16GB,A9,A9,31,205197,533,978,2,1850
+Apple,Apple iPhone SE (第1代) 128GB,A9,A9,31,205197,533,978,2,1850
+Apple,Apple iPhone 6s Plus 128GB,A9,A9,31,205197,533,978,2,1850
+Apple,Apple iPhone SE (第1代) 64GB,A9,A9,31,205197,533,978,2,1850
+Apple,Apple iPhone 6s 128GB,A9,A9,31,205197,533,978,2,1850
+Xiaomi,Xiaomi 小米 Redmi Note 10 Pro 5G (6+128GB),Dimensity 1100,Dimensity 1100,74,671032,866,3289,8,2600
+Xiaomi,Xiaomi 小米 POCO X3 GT (8+128GB),Dimensity 1100,Dimensity 1100,74,671032,866,3289,8,2600
+Xiaomi,Xiaomi 小米 POCO X3 GT (8+256Gb),Dimensity 1100,Dimensity 1100,74,671032,866,3289,8,2600
+Xiaomi,Xiaomi 小米 11T 5G (8+128GB),Dimensity 1200,Dimensity 1200,77,678193,975,3357,8,3000
+Vivo,Vivo X70 5G (8GB+128GB),Dimensity 1200,Dimensity 1200,77,678193,975,3357,8,3000
+realme,realme GT Neo 閃速版 5G (8+128GB),Dimensity 1200,Dimensity 1200,77,678193,975,3357,8,3000
+Oppo,Oppo Reno7 Pro 5G (12+256GB),Dimensity 1200,Dimensity 1200,77,678193,975,3357,8,3000
+Doogee,Doogee V10 5G (8+128GB),Dimensity 700,Dimensity 700,44,338590,564,1743,8,2200
+OUKITEL,OUKITEL WP13 (8+128GB),Dimensity 700,Dimensity 700,44,338590,564,1743,8,2200
+Xiaomi,Xiaomi 小米 Redmi 紅米 Note 10 5G (6+128GB),Dimensity 700,Dimensity 700,44,338590,564,1743,8,2200
+Xiaomi,Xiaomi 小米 POCO M3 Pro 5G (4+64GB),Dimensity 700,Dimensity 700,44,338590,564,1743,8,2200
+Xiaomi,Xiaomi 小米 POCO M3 Pro 5G (6+128GB),Dimensity 700,Dimensity 700,44,338590,564,1743,8,2200
+Doogee,Doogee V20 5G (8+256GB),Dimensity 700,Dimensity 700,44,338590,564,1743,8,2200
+Blackview,Blackview BL5000 (8+128GB),Dimensity 700,Dimensity 700,44,338590,564,1743,8,2200
+OUKITEL,OUKITEL WP15 5G (8+128GB),Dimensity 700,Dimensity 700,44,338590,564,1743,8,2200
+UleFone,UleFone 歐樂風 Armor 12 5G (8+128GB),Dimensity 700,Dimensity 700,44,338590,564,1743,8,2200
+Samsung,Samsung 三星 Galaxy A22 5G (6+128GB),Dimensity 700,Dimensity 700,44,338590,564,1743,8,2200
+Xiaomi,Xiaomi 小米 Redmi Note 10 5G (4+128GB),Dimensity 700,Dimensity 700,44,338590,564,1743,8,2200
+Xiaomi,Xiaomi 小米 Redmi Note 10 5G (4+64GB),Dimensity 700,Dimensity 700,44,338590,564,1743,8,2200
+Samsung,Samsung 三星 Galaxy A22 5G (4+64GB),Dimensity 700,Dimensity 700,44,338590,564,1743,8,2200
+realme,realme Narzo 30 5G (4+128GB),Dimensity 700,Dimensity 700,44,338590,564,1743,8,2200
+Vivo,Vivo Y76 5G (8+128GB),Dimensity 700,Dimensity 700,44,338590,564,1743,8,2200
+Samsung,Samsung 三星 Galaxy A32 5G (8+128GB),Dimensity 720,Dimensity 720,44,346453,529,1722,8,2000
+Xiaomi,Xiaomi 小米 Redmi Note 11 5G (4+128GB),Dimensity 800,Dimensity 800,46,329173,514,1909,8,2000
+OUKITEL,OUKITEL WP10 5G (8+128GB),Dimensity 800,Dimensity 800,46,329173,514,1909,8,2000
+UleFone,UleFone 歐樂風 Armor 11T 5G (8+256GB),Dimensity 800,Dimensity 800,46,329173,514,1909,8,2000
+UleFone,UleFone 歐樂風 Armor 11 5G (8+256GB),Dimensity 800,Dimensity 800,46,329173,514,1909,8,2000
+UleFone,UleFone 歐樂風 Armor 10 5G (8+128GB),Dimensity 800,Dimensity 800,46,329173,514,1909,8,2000
+Oppo,Oppo Reno4 Z 5G (8+128GB),Dimensity 800,Dimensity 800,46,329173,514,1909,8,2000
+Blackview,Blackview BL6000 Pro 5G (8+256GB),Dimensity 800,Dimensity 800,46,329173,514,1909,8,2000
+Motorola,Motorola Edge 20 Fusion 5G (8+128GB),Dimensity 800U,Dimensity 800U,48,393114,615,1833,8,2400
+realme,realme 7 5G (8+128GB),Dimensity 800U,Dimensity 800U,48,393114,615,1833,8,2400
+realme,realme 7 5G (6+128GB),Dimensity 800U,Dimensity 800U,48,393114,615,1833,8,2400
+Oppo,Oppo Reno5 Z 5G (8+128GB),Dimensity 800U,Dimensity 800U,48,393114,615,1833,8,2400
+Vivo,Vivo V21 5G (8+128GB),Dimensity 800U,Dimensity 800U,48,393114,615,1833,8,2400
+Xiaomi,Xiaomi 小米 Redmi Note 11S 5G (4+128GB),Dimensity 810,Dimensity 810,48,376451,629,1908,8,2400
+Xiaomi,Xiaomi 小米 POCO M4 Pro 5G (6+128GB),Dimensity 810,Dimensity 810,48,376451,629,1908,8,2400
+Xiaomi,Xiaomi 小米 POCO M4 Pro 5G (4+64GB),Dimensity 810,Dimensity 810,48,376451,629,1908,8,2400
+UMIDIGI,UMIDIGI Bison GT2 Pro 5G (8+256GB),Dimensity 900,Dimensity 900,53,424294,707,2149,8,2400
+UMIDIGI,UMIDIGI Bison GT2 5G (8+128GB),Dimensity 900,Dimensity 900,53,424294,707,2149,8,2400
+OnePlus,OnePlus Nord CE 2 5G (8+128GB),Dimensity 900,Dimensity 900,53,424294,707,2149,8,2400
+Oppo,Oppo Reno7 5G (8+256GB),Dimensity 900,Dimensity 900,53,424294,707,2149,8,2400
+Honor,Honor 榮耀 X30 Max 5G (8+128GB),Dimensity 900,Dimensity 900,53,424294,707,2149,8,2400
+realme,realme 9 Pro+ 5G (8+256GB),Dimensity 920,Dimensity 920,60,493404,797,2614,8,2500
+realme,realme 9 Pro+ 5G (6+128GB),Dimensity 920,Dimensity 920,60,493404,797,2614,8,2500
+Xiaomi,Xiaomi 小米 Redmi Note 11 Pro+ 5G (8+256GB),Dimensity 920,Dimensity 920,60,493404,797,2614,8,2500
+Xiaomi,Xiaomi 小米 Redmi Note 11 Pro (6+128GB),Dimensity 920,Dimensity 920,60,493404,797,2614,8,2500
+Xiaomi,Xiaomi 小米 Redmi Note 11 Pro+ 5G (6+128GB),Dimensity 920,Dimensity 920,60,493404,797,2614,8,2500
+Xiaomi,Xiaomi 小米 Redmi Note 11 Pro+ 5G (8+128GB),Dimensity 920,Dimensity 920,60,493404,797,2614,8,2500
+Vivo,Vivo V23 5G (12+256GB),Dimensity 920,Dimensity 920,60,493404,797,2614,8,2500
+Vivo,Vivo V23 5G (8+128GB),Dimensity 920,Dimensity 920,60,493404,797,2614,8,2500
+Oppo,Oppo vivo X60 曲屏版 (8+128GB),Exynos 1080,Exynos 1080,78,709307,839,2938,8,2800
+Samsung,Samsung 三星 Galaxy M33 5G (6+128GB),Exynos 1280,Exynos 1280,55,386738,732,1908,8,2400
+Samsung,Samsung 三星 Galaxy A53 5G (8+256GB),Exynos 1280,Exynos 1280,55,386738,732,1908,8,2400
+Samsung,Samsung 三星 Galaxy A53 5G (8+128GB),Exynos 1280,Exynos 1280,55,386738,732,1908,8,2400
+Samsung,Samsung 三星 Galaxy A8+ (2018) (6+64GB),Exynos 7885,Exynos 7885,24,161865,322,1047,8,2200
+Samsung,Samsung 三星 Galaxy A30 (4+64GB),Exynos 7885,Exynos 7885,24,161865,322,1047,8,2200
+Samsung,Samsung 三星 Galaxy A30s (4+128GB),Exynos 7904,Exynos 7904,26,150612,274,1020,8,1800
+Samsung,Samsung 三星 Galaxy M20 3+32GB M205F-DS,Exynos 7904,Exynos 7904,26,150612,274,1020,8,1800
+Samsung,Samsung 三星 Galaxy A30s (4+64GB),Exynos 7904,Exynos 7904,26,150612,274,1020,8,1800
+Samsung,Samsung 三星 Galaxy A21s (4+64GB),Exynos 850,Exynos 850,29,143573,162,948,8,2000
+Samsung,Samsung 三星 Galaxy M12 (3+32GB),Exynos 850,Exynos 850,29,143573,162,948,8,2000
+Samsung,Samsung 三星 Galaxy M12 (4+64GB),Exynos 850,Exynos 850,29,143573,162,948,8,2000
+Samsung,Samsung 三星 Galaxy A13 4G (4+128GB),Exynos 850,Exynos 850,29,143573,162,948,8,2000
+Samsung,Samsung 三星 Galaxy M12 (4+128GB),Exynos 850,Exynos 850,29,143573,162,948,8,2000
+Samsung,Samsung 三星 Galaxy A21s (6+64GB),Exynos 850,Exynos 850,29,143573,162,948,8,2000
+Samsung,Samsung 三星 Galaxy XCover 5 G525F (4+64GB),Exynos 850,Exynos 850,29,143573,162,948,8,2000
+Samsung,Samsung 三星 Galaxy A13 4G (4+64GB),Exynos 850,Exynos 850,29,143573,162,948,8,2000
+Samsung,Samsung 三星 Galaxy A21s (4+128GB),Exynos 850,Exynos 850,29,143573,162,948,8,2000
+Vivo,Vivo Y70t 5G (8+128GB),Exynos 880,Exynos 880,45,321190,655,1821,8,2000
+Samsung,Samsung 三星 Galaxy A50 (4+128GB),Exynos 9610,Exynos 9610,30,205217,344,1150,8,2300
+Samsung,Samsung 三星 Galaxy A50 (4+64GB),Exynos 9610,Exynos 9610,30,205217,344,1150,8,2300
+Samsung,Samsung 三星 Galaxy A51 (4+128GB),Exynos 9611,Exynos 9611,32,229962,327,1215,8,2300
+Samsung,Samsung 三星 Galaxy A51 (8+128GB),Exynos 9611,Exynos 9611,32,229962,327,1215,8,2300
+Samsung,Samsung 三星 Galaxy A51 (6+128GB),Exynos 9611,Exynos 9611,32,229962,327,1215,8,2300
+Samsung,Samsung 三星 Galaxy A50s (6+128GB),Exynos 9611,Exynos 9611,32,229962,327,1215,8,2300
+Samsung,Samsung 三星 Galaxy M31 (6+128GB),Exynos 9611,Exynos 9611,32,229962,327,1215,8,2300
+Samsung,Samsung 三星 Galaxy M21 (4+64GB),Exynos 9611,Exynos 9611,32,229962,327,1215,8,2300
+Samsung,Samsung 三星 Galaxy A51 5G (6+128GB),Exynos 980,Exynos 980,49,388547,697,1865,8,2200
+Vivo,Vivo X30 Pro 5G (8+128GB),Exynos 980,Exynos 980,49,388547,697,1865,8,2200
+Vivo,Vivo X30 5G (8+128GB),Exynos 980,Exynos 980,49,388547,697,1865,8,2200
+Samsung,Samsung 三星 Galaxy A71 5G (8+128GB),Exynos 980,Exynos 980,49,388547,697,1865,8,2200
+Samsung,Samsung 三星 Galaxy Note10 Lite (8+128GB),Exynos 9810,Exynos 9810,51,416105,684,2014,8,2900
+Samsung,Samsung 三星 Galaxy Note10 5G (12+256GB),Exynos 9825,Exynos 9825,60,510256,770,2404,8,2730
+Samsung,Samsung 三星 Galaxy M62 4G (8+256GB),Exynos 9825,Exynos 9825,60,510256,770,2404,8,2730
+Samsung,Samsung 三星 Galaxy S20 FE 4G (8+256GB),Exynos 990,Exynos 990,71,601241,940,2742,8,2730
+Samsung,Samsung 三星 Galaxy S20 FE 4G (8+128GB),Exynos 990,Exynos 990,71,601241,940,2742,8,2730
+Google,Google Pixel 6 Pro (12+512GB),Google Tensor,Google Tensor,85,725720,1051,2876,8,2800
+Google,Google Pixel 6 Pro (12+128GB),Google Tensor,Google Tensor,85,725720,1051,2876,8,2800
+Google,Google Pixel 6 (8+128GB),Google Tensor,Google Tensor,85,725720,1051,2876,8,2800
+Google,Google Pixel 6 (8+256GB),Google Tensor,Google Tensor,85,725720,1051,2876,8,2800
+Google,Google Pixel 6 Pro (12+256GB),Google Tensor,Google Tensor,85,725720,1051,2876,8,2800
+UleFone,UleFone 歐樂風 Armor X8 (4+64GB),Helio A25,Helio A25,23,115304,138,760,8,1800
+UleFone,UleFone 歐樂風 Armor X5 Pro (4+64GB),Helio A25,Helio A25,23,115304,138,760,8,1800
+Doogee,Doogee N30 (4+128GB),Helio A25,Helio A25,23,115304,138,760,8,1800
+OUKITEL,OUKITEL K9 Pro (4+64GB),Helio A25,Helio A25,23,115304,138,760,8,1800
+Nokia,Nokia G10 (4+64GB),Helio G25,Helio G25,23,93769,136,474,8,2000
+Xiaomi,Xiaomi 小米 紅米 Redmi 9A (6+128GB),Helio G25,Helio G25,23,93769,136,474,8,2000
+Xiaomi,Xiaomi 小米 紅米 Redmi 9A (2+32GB),Helio G25,Helio G25,23,93769,136,474,8,2000
+UMIDIGI,UMIDIGI A11 (3+64GB),Helio G25,Helio G25,23,93769,136,474,8,2000
+UMIDIGI,UMIDIGI A11 (4+128GB),Helio G25,Helio G25,23,93769,136,474,8,2000
+F150,F150 B2021 三防手機 (6+64GB),Helio G25,Helio G25,23,93769,136,474,8,2000
+UMIDIGI,UMIDIGI Power 5 (4+128Gb),Helio G25,Helio G25,23,93769,136,474,8,2000
+Xiaomi,Xiaomi 小米 紅米 Redmi 9A (4+128GB),Helio G25,Helio G25,23,93769,136,474,8,2000
+Xiaomi,Xiaomi 小米 紅米 Redmi 9A (6+64GB),Helio G25,Helio G25,23,93769,136,474,8,2000
+UMIDIGI,UMIDIGI Power 5 (3+64Gb),Helio G25,Helio G25,23,93769,136,474,8,2000
+Xiaomi,Xiaomi 小米 紅米 Redmi 9C (4+128GB),Helio G35,Helio G35,25,108294,176,689,8,2300
+Xiaomi,Xiaomi 小米 紅米 Redmi 9C (2+32GB),Helio G35,Helio G35,25,108294,176,689,8,2300
+realme,realme C21 (4+64GB),Helio G35,Helio G35,25,108294,176,689,8,2300
+realme,realme C15 (4+64GB),Helio G35,Helio G35,25,108294,176,689,8,2300
+realme,realme C11 (2+32GB),Helio G35,Helio G35,25,108294,176,689,8,2300
+realme,realme C15 (4+128GB),Helio G35,Helio G35,25,108294,176,689,8,2300
+Xiaomi,Xiaomi 小米 紅米 Redmi 9C (3+64GB),Helio G35,Helio G35,25,108294,176,689,8,2300
+Infinix,Infinix Hot 10 Play (4+64GB),Helio G35,Helio G35,25,108294,176,689,8,2300
+realme,realme C3,Helio G70,Helio G70,31,208946,394,1308,8,2000
+realme,realme 6i (4+128GB),Helio G80,Helio G80,33,231417,352,1302,8,2000
+Samsung,Samsung 三星 Galaxy A32 4G (8+128GB),Helio G80,Helio G80,33,231417,352,1302,8,2000
+Samsung,Samsung 三星 Galaxy A32 4G (6+128GB),Helio G80,Helio G80,33,231417,352,1302,8,2000
+Samsung,Samsung 三星 Galaxy A22 (4+64GB),Helio G80,Helio G80,33,231417,352,1302,8,2000
+Samsung,Samsung 三星 Galaxy A22 (6+128GB),Helio G80,Helio G80,33,231417,352,1302,8,2000
+UMIDIGI,UMIDIGI A11 Pro Max (8+128GB),Helio G80,Helio G80,33,231417,352,1302,8,2000
+Infinix,Infinix Note 8 (6+128GB),Helio G80,Helio G80,33,231417,352,1302,8,2000
+Xiaomi,Xiaomi 小米 紅米 Redmi 9 (4+64GB),Helio G80,Helio G80,33,231417,352,1302,8,2000
+UMIDIGI,UMIDIGI Bison Pro (8+128GB),Helio G80,Helio G80,33,231417,352,1302,8,2000
+Xiaomi,Xiaomi 小米 Redmi 9 (4+128GB),Helio G80,Helio G80,33,231417,352,1302,8,2000
+Xiaomi,Xiaomi 小米 Redmi 9 (6+128GB),Helio G80,Helio G80,33,231417,352,1302,8,2000
+Vivo,Vivo Y21s (4+128GB),Helio G80,Helio G80,33,231417,352,1302,8,2000
+Xiaomi,Xiaomi 小米 紅米 Redmi 9 (3+32GB),Helio G80,Helio G80,33,231417,352,1302,8,2000
+Samsung,Samsung 三星 M32 (8+128GB),Helio G80,Helio G80,33,231417,352,1302,8,2000
+Xiaomi,Xiaomi 小米 Redmi 10X 4G (6+128GB),Helio G85,Helio G85,32,231800,358,1276,8,2000
+Infinix,Infinix Infinix Hot 10s (4+128GB),Helio G85,Helio G85,32,231800,358,1276,8,2000
+Infinix,Infinix Infinix Hot 10s (6+128GB),Helio G85,Helio G85,32,231800,358,1276,8,2000
+Infinix,Infinix Note 10 (6+128Gb),Helio G85,Helio G85,32,231800,358,1276,8,2000
+Xiaomi,Xiaomi 小米 紅米 Redmi Note 9 (4+64GB),Helio G85,Helio G85,32,231800,358,1276,8,2000
+realme,realme C25s (4+128GB),Helio G85,Helio G85,32,231800,358,1276,8,2000
+realme,realme Narzo 50A (4+128GB),Helio G85,Helio G85,32,231800,358,1276,8,2000
+Xiaomi,Xiaomi 小米 紅米 Redmi Note 9 (4+128GB),Helio G85,Helio G85,32,231800,358,1276,8,2000
+Xiaomi,Xiaomi 小米 紅米 Redmi Note 9 (3+64GB),Helio G85,Helio G85,32,231800,358,1276,8,2000
+Xiaomi,Xiaomi 小米 Redmi 10X 4G (4+128GB),Helio G85,Helio G85,32,231800,358,1276,8,2000
+Xiaomi,Xiaomi 小米 Redmi 10 2022 (4+64GB),Helio G88,Helio G88,33,231623,366,1276,8,2000
+Xiaomi,Xiaomi 小米 Redmi 10 (4+128GB),Helio G88,Helio G88,33,231623,366,1276,8,2000
+Xiaomi,Xiaomi 小米 Redmi 10 4G (4+64GB),Helio G88,Helio G88,33,231623,366,1276,8,2000
+realme,realme 6 (8+128GB),Helio G90,Helio G90,43,342765,514,1641,8,2000
+realme,realme 6 (4+128GB),Helio G90,Helio G90,43,342765,514,1641,8,2000
+Doogee,Doogee S96 Pro (8+128GB),Helio G90,Helio G90,43,342765,514,1641,8,2000
+Xiaomi,Xiaomi 小米 紅米 Redmi Note 8 Pro (6+128GB),Helio G90T,Helio G90T,42,332447,500,1628,8,2050
+Xiaomi,Xiaomi 小米 紅米 Redmi Note 8 Pro (8+128GB),Helio G90T,Helio G90T,42,332447,500,1628,8,2050
+Infinix,Infinix Zero 8i (8+128GB),Helio G90T,Helio G90T,42,332447,500,1628,8,2050
+Infinix,Infinix Zero 8 (8+128GB),Helio G90T,Helio G90T,42,332447,500,1628,8,2050
+Xiaomi,Xiaomi 小米 紅米 Redmi Note 8 Pro (6+64GB),Helio G90T,Helio G90T,42,332447,500,1628,8,2050
+UMIDIGI,UMIDIGI Bison GT (8+128GB),Helio G95,Helio G95,42,342626,518,1609,8,2050
+Xiaomi,Xiaomi 小米 Redmi 紅米 Note 10s (8+128GB),Helio G95,Helio G95,42,342626,518,1609,8,2050
+F150,F150 R2022 4G 三防手機 (8+128GB),Helio G95,Helio G95,42,342626,518,1609,8,2050
+UleFone,UleFone 歐樂風 Power Armor 13 (8+256GB),Helio G95,Helio G95,42,342626,518,1609,8,2050
+OUKITEL,OUKITEL WP17 (8+128GB),Helio G95,Helio G95,42,342626,518,1609,8,2050
+realme,realme 7 (8+128GB),Helio G95,Helio G95,42,342626,518,1609,8,2050
+Xiaomi,Xiaomi 小米 Redmi 紅米 Note 10s (6+128GB),Helio G95,Helio G95,42,342626,518,1609,8,2050
+Xiaomi,Xiaomi 小米 Redmi 紅米 Note 10s (6+64GB),Helio G95,Helio G95,42,342626,518,1609,8,2050
+Doogee,Doogee S97 Pro (8+128GB),Helio G95,Helio G95,42,342626,518,1609,8,2050
+realme,realme 8 4G (8+128GB),Helio G95,Helio G95,42,342626,518,1609,8,2050
+Xiaomi,Xiaomi 小米 Redmi Note 11S 4G (6+128GB),Helio G96,Helio G96,42,334061,542,1890,8,2050
+Xiaomi,Xiaomi 小米 Redmi Note 11S NFC (8+128GB),Helio G96,Helio G96,42,334061,542,1890,8,2050
+Xiaomi,Xiaomi 小米 Redmi Note 11S 4G (8+128GB),Helio G96,Helio G96,42,334061,542,1890,8,2050
+Xiaomi,Xiaomi 小米 Redmi Note 11S 4G (6+64GB),Helio G96,Helio G96,42,334061,542,1890,8,2050
+Xiaomi,Xiaomi 小米 POCO M4 Pro 4G (6+128GB),Helio G96,Helio G96,42,334061,542,1890,8,2050
+Blackview,Blackview BV8800 (8+128GB),Helio G96,Helio G96,42,334061,542,1890,8,2050
+realme,realme 8i (4+128GB),Helio G96,Helio G96,42,334061,542,1890,8,2050
+Xiaomi,Xiaomi 小米 Redmi Note 11 Pro 4G (6+64GB),Helio G96,Helio G96,42,334061,542,1890,8,2050
+Xiaomi,Xiaomi 小米 Redmi Note 11 Pro 4G (8+128GB),Helio G96,Helio G96,42,334061,542,1890,8,2050
+Xiaomi,Xiaomi 小米 Redmi Note 11S NFC (6+128GB),Helio G96,Helio G96,42,334061,542,1890,8,2050
+Xiaomi,Xiaomi 小米 Redmi Note 11S NFC (6+64GB),Helio G96,Helio G96,42,334061,542,1890,8,2050
+Doogee,Doogee N20 (4+64GB),Helio P23,Helio P23,22,110275,153,858,8,2300
+Oukitel,Oukitel C17 Pro (4+64GB),Helio P23,Helio P23,22,110275,153,858,8,2300
+UleFone,UleFone 歐樂風 Power 3s,Helio P23,Helio P23,22,110275,153,858,8,2300
+Oukitel,Oukitel K9 (4+64GB),Helio P35,Helio P35,24,100496,171,977,8,2300
+Oppo,Oppo A54 (CPH2239) (4+64GB),Helio P35,Helio P35,24,100496,171,977,8,2300
+Oppo,Oppo A15 (CPH2185) (3+32GB),Helio P35,Helio P35,24,100496,171,977,8,2300
+Vivo,Vivo Y15s 4G (3+32GB),Helio P35,Helio P35,24,100496,171,977,8,2300
+Oppo,Oppo A8 (4+128GB),Helio P35,Helio P35,24,100496,171,977,8,2300
+Sony,Sony Xperia Ace II SO-41B (4+64GB),Helio P35,Helio P35,24,100496,171,977,8,2300
+Samsung,Samsung 三星 Galaxy A03s (4+64GB),Helio P35,Helio P35,24,100496,171,977,8,2300
+Samsung,Samsung 三星 Galaxy A03s (3+32GB),Helio P35,Helio P35,24,100496,171,977,8,2300
+LG,LG 樂金 K61 LMQ630EAW (4+128GB),Helio P35,Helio P35,24,100496,171,977,8,2300
+UMIDIGI,UMIDIGI Bison (6+128GB),Helio P60,Helio P60,28,187498,274,1133,8,2000
+Oppo,Oppo R15,Helio P60,Helio P60,28,187498,274,1133,8,2000
+OUKITEL,OUKITEL C21 (4+64GB),Helio P60,Helio P60,28,187498,274,1133,8,2000
+Doogee,Doogee S86 Pro (8+128GB),Helio P60,Helio P60,28,187498,274,1133,8,2000
+UMIDIGI,UMIDIGI Bison (8+128GB),Helio P60,Helio P60,28,187498,274,1133,8,2000
+OUKITEL,OUKITEL WP16 (8+128GB),Helio P60,Helio P60,28,187498,274,1133,8,2000
+UMIDIGI,UMIDIGI A9 Pro (6+128GB),Helio P60,Helio P60,28,187498,274,1133,8,2000
+Doogee,Doogee S86 (6+128GB),Helio P60,Helio P60,28,187498,274,1133,8,2000
+UMIDIGI,UMIDIGI A9 Pro (8+128GB),Helio P60,Helio P60,28,187498,274,1133,8,2000
+Oukitel,Oukitel WP9 (6+128GB),Helio P60,Helio P60,28,187498,274,1133,8,2000
+UleFone,UleFone 歐樂風 Armor 6,Helio P60,Helio P60,28,187498,274,1133,8,2000
+Hotwav,Hotwav Cyber 9 Pro (8+128GB),Helio P60,Helio P60,28,187498,274,1133,8,2000
+Doogee,Doogee N20 Pro (6+128GB),Helio P60,Helio P60,28,187498,274,1133,8,2000
+Doogee,Doogee N40 Pro (6+128GB),Helio P60,Helio P60,28,187498,274,1133,8,2000
+UleFone,UleFone 歐樂風 Armor 8 (4+64GB),Helio P60,Helio P60,28,187498,274,1133,8,2000
+Blackview,Blackview A90 (4+64GB),Helio P60,Helio P60,28,187498,274,1133,8,2000
+Samsung,Samsung 三星 Galaxy A31 (4+128GB),Helio P65,Helio P65,30,197392,356,1294,8,2000
+Samsung,Samsung 三星 Galaxy A31 (6+128GB),Helio P65,Helio P65,30,197392,356,1294,8,2000
+Vivo,Vivo Y19 (6+128GB),Helio P65,Helio P65,30,197392,356,1294,8,2000
+Samsung,Samsung 三星 Galaxy A41 (4+64GB),Helio P65,Helio P65,30,197392,356,1294,8,2000
+UleFone,UleFone 歐樂風 Armor 3W (6+64GB),Helio P70,Helio P70,29,182112,301,1396,8,2100
+Doogee,Doogee S90Pro + Module (Night Vision Camera + Battery),Helio P70,Helio P70,29,182112,301,1396,8,2100
+Blackview,Blackview A95 (8+128GB),Helio P70,Helio P70,29,182112,301,1396,8,2100
+Blackview,Blackview A100 (6+128GB),Helio P70,Helio P70,29,182112,301,1396,8,2100
+UleFone,UleFone 歐樂風 Armor 6E 軍規三防智能手機 (4GB/64GB),Helio P70,Helio P70,29,182112,301,1396,8,2100
+Doogee,Doogee S88 Plus (8+128GB),Helio P70,Helio P70,29,182112,301,1396,8,2100
+Blackview,Blackview Rugged Smartphone BV6300 Pro (6+128GB),Helio P70,Helio P70,29,182112,301,1396,8,2100
+OUKITEL,OUKITEL WP6 (6+128GB),Helio P70,Helio P70,29,182112,301,1396,8,2100
+Oppo,Oppo A91 (8+128GB),Helio P70,Helio P70,29,182112,301,1396,8,2100
+Doogee,Doogee S88 Pro (6+128GB),Helio P70,Helio P70,29,182112,301,1396,8,2100
+Doogee,Doogee S90C + Module (Night Vision Camera + Battery),Helio P70,Helio P70,29,182112,301,1396,8,2100
+Doogee,Doogee S90 Pro (6+128GB),Helio P70,Helio P70,29,182112,301,1396,8,2100
+Blackview,Blackview BV9700 Pro (6+128GB),Helio P70,Helio P70,29,182112,301,1396,8,2100
+Blackview,Blackview BV9800 Pro - Thermal Imaging (6+128GB),Helio P70,Helio P70,29,182112,301,1396,8,2100
+UleFone,UleFone 歐樂風 Armor 7E (4+128GB),Helio P90,Helio P90,35,255656,394,1496,8,2200
+UleFone,UleFone 歐樂風 Armor 9E (8+128GB),Helio P90,Helio P90,35,255656,394,1496,8,2200
+Doogee,Doogee S95 (6+128GB) + Module (Speaker + Battery),Helio P90,Helio P90,35,255656,394,1496,8,2200
+UleFone,UleFone 歐樂風 Armor 9 (8+128GB),Helio P90,Helio P90,35,255656,394,1496,8,2200
+Doogee,Doogee S95 Pro + Module (Speaker + Battery),Helio P90,Helio P90,35,255656,394,1496,8,2200
+OUKITEL,OUKITEL WP7 UVC+Flashlight 套裝版 (8+128GB),Helio P90,Helio P90,35,255656,394,1496,8,2200
+OUKITEL,OUKITEL WP7 (8+128GB),Helio P90,Helio P90,35,255656,394,1496,8,2200
+Blackview,Blackview BV9900E (6+128GB),Helio P90,Helio P90,35,255656,394,1496,8,2200
+Doogee,Doogee S95 Pro (8+128GB),Helio P90,Helio P90,35,255656,394,1496,8,2200
+Doogee,Doogee S95 Pro (8+256GB),Helio P90,Helio P90,35,255656,394,1496,8,2200
+Blackview,Blackview Thermal Camera Mobile Phone BV9900 Pro,Helio P90,Helio P90,35,255656,394,1496,8,2200
+Blackview,Blackview IP68 Rugged Mobile Phone BV9900,Helio P90,Helio P90,35,255656,394,1496,8,2200
+Oppo,Oppo A94 (CPH2203) (8+128GB),Helio P95,Helio P95,38,278988,411,1515,8,2200
+Huawei,Huawei P20 lite (4+64GB),Kirin 659,Kirin 659,22,121428,195,886,8,2360
+Honor,Honor 榮耀 暢玩7X (4+64GB),Kirin 659,Kirin 659,22,121428,195,886,8,2360
+Huawei,Huawei Nova 3e (4+64GB),Kirin 659,Kirin 659,22,121428,195,886,8,2360
+Huawei,Huawei Nova 3i (4+128GB),Kirin 710,Kirin 710,30,196887,332,1284,8,2200
+Huawei,Huawei Nova 3i (4+128GB),Kirin 710,Kirin 710,31,210308,327,1344,8,2200
+Honor,Honor 榮耀 8X (4+64GB),Kirin 710,Kirin 710,30,196887,332,1284,8,2200
+Honor,Honor 榮耀 8X (4+64GB),Kirin 710,Kirin 710,31,210308,327,1344,8,2200
+Huawei,Huawei P30 Lite (4+128GB),Kirin 710,Kirin 710,30,196887,332,1284,8,2200
+Huawei,Huawei P30 Lite (4+128GB),Kirin 710,Kirin 710,31,210308,327,1344,8,2200
+Honor,Honor 榮耀 9X Lite (4+128GB),Kirin 710,Kirin 710,30,196887,332,1284,8,2200
+Honor,Honor 榮耀 9X Lite (4+128GB),Kirin 710,Kirin 710,31,210308,327,1344,8,2200
+Huawei,Huawei 暢享9 Plus (4+128GB),Kirin 710,Kirin 710,30,196887,332,1284,8,2200
+Huawei,Huawei 暢享9 Plus (4+128GB),Kirin 710,Kirin 710,31,210308,327,1344,8,2200
+Huawei,Huawei Y9 2019 (4+64GB),Kirin 710,Kirin 710,30,196887,332,1284,8,2200
+Huawei,Huawei Y9 2019 (4+64GB),Kirin 710,Kirin 710,31,210308,327,1344,8,2200
+Honor,Honor 榮耀 10 Lite (3+64GB),Kirin 710,Kirin 710,30,196887,332,1284,8,2200
+Honor,Honor 榮耀 10 Lite (3+64GB),Kirin 710,Kirin 710,31,210308,327,1344,8,2200
+Huawei,Huawei P30 Lite (6+128GB),Kirin 710,Kirin 710,30,196887,332,1284,8,2200
+Huawei,Huawei P30 Lite (6+128GB),Kirin 710,Kirin 710,31,210308,327,1344,8,2200
+Huawei,Huawei P Smart 2020 (4+128GB),Kirin 710,Kirin 710,30,196887,332,1284,8,2200
+Huawei,Huawei P Smart 2020 (4+128GB),Kirin 710,Kirin 710,31,210308,327,1344,8,2200
+Huawei,Huawei P30 Lite 新版本 (6+256GB),Kirin 710,Kirin 710,30,196887,332,1284,8,2200
+Huawei,Huawei P30 Lite 新版本 (6+256GB),Kirin 710,Kirin 710,31,210308,327,1344,8,2200
+Honor,Honor 榮耀 Play4T (6+128GB),Kirin 710,Kirin 710,30,196887,332,1284,8,2200
+Honor,Honor 榮耀 Play4T (6+128GB),Kirin 710,Kirin 710,31,210308,327,1344,8,2200
+Honor,Honor 榮耀 9x Pro (8+128GB),Kirin 810,Kirin 810,47,371083,604,1920,8,2270
+Honor,Honor 榮耀 9x (6+64GB),Kirin 810,Kirin 810,47,371083,604,1920,8,2270
+Huawei,Huawei Nova 7i (8+128GB),Kirin 810,Kirin 810,47,371083,604,1920,8,2270
+Huawei,Huawei P40 lite (6+128GB),Kirin 810,Kirin 810,47,371083,604,1920,8,2270
+Honor,Honor 榮耀 9x (6+128GB),Kirin 810,Kirin 810,47,371083,604,1920,8,2270
+Honor,Honor 榮耀 9x Pro (8+256GB),Kirin 810,Kirin 810,47,371083,604,1920,8,2270
+Honor,Honor 榮耀 9x (4+64GB),Kirin 810,Kirin 810,47,371083,604,1920,8,2270
+Honor,Honor 榮耀 30S 5G (8+256GB),Kirin 820,Kirin 820,55,451161,641,2472,8,2360
+Huawei,Huawei Nova 7 SE 5G (8+128GB),Kirin 820,Kirin 820,55,451161,641,2472,8,2360
+Huawei,Huawei Mate 40 Pro 5G (8+128GB),Kirin 9000,Kirin 9000,85,762556,1054,3722,8,3130
+Huawei,Huawei Mate 40 Pro 5G (8+256GB),Kirin 9000,Kirin 9000,85,762556,1054,3722,8,3130
+Huawei,Huawei Mate 40 Pro+ 5G (12+256GB),Kirin 9000,Kirin 9000,85,762556,1054,3722,8,3130
+Huawei,Huawei Mate 40 RS 保時捷設計 5G (8+256GB),Kirin 9000,Kirin 9000,85,762556,1054,3722,8,3130
+Huawei,Huawei P50 PRO 4G (8+256GB),Kirin 9000,Kirin 9000,85,762556,1054,3722,8,3130
+Huawei,Huawei Mate X2 5G (8+256GB),Kirin 9000,Kirin 9000,85,762556,1054,3722,8,3130
+Huawei,Huawei Mate 40 RS 保時捷設計典藏版 5G (12+512GB),Kirin 9000,Kirin 9000,85,762556,1054,3722,8,3130
+Huawei,Huawei Mate 40 RS 保時捷設計 5G (12+256GB),Kirin 9000,Kirin 9000,85,762556,1054,3722,8,3130
+Huawei,Huawei P50 PRO 4G (8+512GB),Kirin 9000,Kirin 9000,85,762556,1054,3722,8,3130
+Huawei,Huawei Mate 40 5G (8+128GB),Kirin 9000E,Kirin 9000E,78,732675,1064,3770,8,3130
+Huawei,Huawei Mate 40 5G (8+256GB),Kirin 9000E,Kirin 9000E,78,732675,1064,3770,8,3130
+Huawei,Huawei Mate 9 Pro 128GB,Kirin 960,Kirin 960,33,254969,381,1600,8,2360
+Huawei,Huawei Mate 9 Pro 64GB,Kirin 960,Kirin 960,33,254969,381,1600,8,2360
+Huawei,Huawei P10 (4+64GB),Kirin 960,Kirin 960,33,254969,381,1600,8,2360
+Huawei,Huawei Mate 9 64GB,Kirin 960,Kirin 960,33,254969,381,1600,8,2360
+Huawei,Huawei P10 Plus (6+128GB) 香港版,Kirin 960,Kirin 960,33,254969,381,1600,8,2360
+Huawei,Huawei Mate 10 (4+64GB),Kirin 970,Kirin 970,39,324547,388,1370,8,2360
+Huawei,Huawei P20 Pro (6+128GB),Kirin 970,Kirin 970,39,324547,388,1370,8,2360
+Huawei,Huawei Mate 10 Pro (6+128GB),Kirin 970,Kirin 970,39,324547,388,1370,8,2360
+Honor,Honor 榮耀 10 (6+64GB),Kirin 970,Kirin 970,39,324547,388,1370,8,2360
+Huawei,Huawei Nova 4 (8+128GB) 標配版,Kirin 970,Kirin 970,39,324547,388,1370,8,2360
+Honor,Honor 榮耀 10 (4+128GB),Kirin 970,Kirin 970,39,324547,388,1370,8,2360
+Honor,Honor 榮耀 10 (4+128GB),Kirin 970,Kirin 970,39,324547,388,1370,8,2360
+Huawei,Huawei Nova 3 (6+128GB),Kirin 970,Kirin 970,39,324547,388,1370,8,2360
+Honor,Honor 榮耀 Play (4+64GB),Kirin 970,Kirin 970,39,324547,388,1370,8,2360
+Huawei,Huawei Mate 10 Pro (6+64GB) 全網通,Kirin 970,Kirin 970,39,324547,388,1370,8,2360
+Huawei,Huawei Mate 10 Porsche Design 256GB,Kirin 970,Kirin 970,39,324547,388,1370,8,2360
+Huawei,Huawei Mate 10 Pro (6+64GB) 全網通,Kirin 970,Kirin 970,39,324547,388,1370,8,2360
+Huawei,Huawei P20 (4+128GB),Kirin 970,Kirin 970,39,324547,388,1370,8,2360
+Huawei,Huawei P30 Pro (8+512GB),Kirin 980,Kirin 980,56,487471,698,2498,8,2600
+Huawei,Huawei Mate 20 (6+128GB),Kirin 980,Kirin 980,56,487471,698,2498,8,2600
+Huawei,Huawei Mate 20 (4+128GB),Kirin 980,Kirin 980,56,487471,698,2498,8,2600
+Huawei,Huawei P30 Pro (8+128GB) Dual Sim,Kirin 980,Kirin 980,56,487471,698,2498,8,2600
+Huawei,Huawei Porsche Design Mate 20 RS (8+512GB),Kirin 980,Kirin 980,56,487471,698,2498,8,2600
+Huawei,Huawei Porsche Design Mate 20 RS (8+256GB),Kirin 980,Kirin 980,56,487471,698,2498,8,2600
+Huawei,Huawei Mate X (8+512GB),Kirin 980,Kirin 980,56,487471,698,2498,8,2600
+Huawei,Huawei P30 (8+128GB),Kirin 980,Kirin 980,56,487471,698,2498,8,2600
+Huawei,Huawei P30 Pro (6+128GB) Single Sim,Kirin 980,Kirin 980,56,487471,698,2498,8,2600
+Huawei,Huawei Mate 20 X (6+128GB),Kirin 980,Kirin 980,56,487471,698,2498,8,2600
+Huawei,Huawei Mate 20 Pro (6+128GB),Kirin 980,Kirin 980,56,487471,698,2498,8,2600
+Huawei,Huawei Mate 20 X 5G (8+256GB),Kirin 980,Kirin 980,56,487471,698,2498,8,2600
+Honor,Honor 榮耀 V20 (8+256GB),Kirin 980,Kirin 980,56,487471,698,2498,8,2600
+Huawei,Huawei P30 Pro (8+256GB),Kirin 980,Kirin 980,56,487471,698,2498,8,2600
+Huawei,Huawei Nova 5T (6+128GB),Kirin 980,Kirin 980,56,487471,698,2498,8,2600
+Huawei,Huawei Nova 5T (8+128GB),Kirin 980,Kirin 980,56,487471,698,2498,8,2600
+Huawei,Huawei Mate 20 Pro UD (8+256GB),Kirin 980,Kirin 980,56,487471,698,2498,8,2600
+Honor,Honor 榮耀 V20 (6+128GB),Kirin 980,Kirin 980,56,487471,698,2498,8,2600
+Huawei,Huawei Nova 7 Pro 5G (8+128GB),Kirin 985,Kirin 985,56,468311,693,2577,8,2580
+Huawei,Huawei nova 8 Pro (8+128GB),Kirin 985,Kirin 985,56,468311,693,2577,8,2580
+Huawei,Huawei nova 8 5G (8+128GB),Kirin 985,Kirin 985,56,468311,693,2577,8,2580
+Huawei,Huawei Nova 7 5G (8+256GB),Kirin 985,Kirin 985,56,468311,693,2577,8,2580
+Huawei,Huawei Nova 7 5G (8+128GB),Kirin 985,Kirin 985,56,468311,693,2577,8,2580
+Honor,Honor 榮耀 30 5G (8+128GB),Kirin 985,Kirin 985,56,468311,693,2577,8,2580
+Xiaomi,Xiaomi 小米 紅米 Redmi 8 (4+64GB),Snapdragon 439,Snapdragon 439,23,102517,178,813,8,2000
+Xiaomi,Xiaomi 小米 紅米 Redmi 8 (3+32GB),Snapdragon 439,Snapdragon 439,23,102517,178,813,8,2000
+Xiaomi,Xiaomi 小米 紅米 Redmi 8A (4+64GB),Snapdragon 439,Snapdragon 439,23,102517,178,813,8,2000
+Xiaomi,Xiaomi 小米 紅米 Redmi 8A (2+32GB),Snapdragon 439,Snapdragon 439,23,102517,178,813,8,2000
+Oppo,Oppo A32 (4+128GB),Snapdragon 460,Snapdragon 460,29,163625,257,1164,8,1800
+Nokia,Nokia 3.4 (3+64GB),Snapdragon 460,Snapdragon 460,29,163625,257,1164,8,1800
+Vivo,Vivo Y20s (4+128GB),Snapdragon 460,Snapdragon 460,29,163625,257,1164,8,1800
+AGM,AGM Glory G1 Pro 5G (8+256GB),Snapdragon 480,Snapdragon 480,40,287814,513,1666,8,2000
+Nokia,Nokia G50 5G (6+128GB),Snapdragon 480,Snapdragon 480,40,287814,513,1666,8,2000
+Nokia,Nokia X10 5G (6+128GB),Snapdragon 480,Snapdragon 480,40,287814,513,1666,8,2000
+AGM,AGM Glory G1 5G (8+256GB),Snapdragon 480,Snapdragon 480,40,287814,513,1666,8,2000
+AGM,AGM Glory SE 5G (8+128GB),Snapdragon 480,Snapdragon 480,40,287814,513,1666,8,2000
+Xiaomi,Xiaomi 小米 紅米 Redmi Note 10 JE 5G (4+64GB),Snapdragon 480,Snapdragon 480,40,287814,513,1666,8,2000
+Motorola,Motorola Moto G50 (4+128GB),Snapdragon 480,Snapdragon 480,40,287814,513,1666,8,2000
+Vivo,Vivo iQOO U3x (4+128GB),Snapdragon 480,Snapdragon 480,40,287814,513,1666,8,2000
+Vivo,Vivo Y53s 5G (8+128GB),Snapdragon 480,Snapdragon 480,40,287814,513,1666,8,2000
+Nokia,Nokia X20 (6+128GB),Snapdragon 480,Snapdragon 480,40,287814,513,1666,8,2000
+Nokia,Nokia X20 (8+128GB),Snapdragon 480,Snapdragon 480,40,287814,513,1666,8,2000
+Vivo,Vivo Y31s 5G版 (6+128GB),Snapdragon 480,Snapdragon 480,40,287814,513,1666,8,2000
+Docomo,Docomo Fujitsu arrows We F-51B (4+64GB),Snapdragon 480,Snapdragon 480,40,287814,513,1666,8,2000
+Oppo,Oppo A74 5G (6+128GB),Snapdragon 480,Snapdragon 480,40,287814,513,1666,8,2000
+Oppo,Oppo A54 5G Single (4+64GB),Snapdragon 480,Snapdragon 480,40,287814,513,1666,8,2000
+Nokia,Nokia XR20 5G (6+128GB),Snapdragon 480,Snapdragon 480,40,287814,513,1666,8,2000
+Sharp,Sharp 聲寶 AQUOS wish SHG06 (4+64GB),Snapdragon 480,Snapdragon 480,40,287814,513,1666,8,2000
+Sony,Sony Xperia XA2 Plus (6+64GB),Snapdragon 630,Snapdragon 630,23,133844,176,982,8,2200
+Nokia,Nokia 6.1 (4+64GB),Snapdragon 630,Snapdragon 630,23,133844,176,982,8,2200
+Sharp,Sharp 聲寶 AQUOS sense3 docomo版 (SHV45/SH02M) (4+64GB),Snapdragon 630,Snapdragon 630,23,133844,176,982,8,2200
+Sony,Sony Xperia XA2 Ultra (4+64GB),Snapdragon 630,Snapdragon 630,23,133844,176,982,8,2200
+Sony,Sony Xperia 10 (4+64GB),Snapdragon 630,Snapdragon 630,23,133844,176,982,8,2200
+Motorola,Motorola G6 Plus,Snapdragon 630,Snapdragon 630,23,133844,176,982,8,2200
+Sharp,Sharp 聲寶 AQUOS sense3 au版 (SHV45) (4+64GB),Snapdragon 630,Snapdragon 630,23,133844,176,982,8,2200
+Sony,Sony Xperia XA2 (3+32GB),Snapdragon 630,Snapdragon 630,23,133844,176,982,8,2200
+Motorola,Motorola Moto E (2+32GB),Snapdragon 632,Snapdragon 632,26,148585,266,1049,8,1800
+Xiaomi,Xiaomi 小米 紅米 7 (3+64GB),Snapdragon 632,Snapdragon 632,26,148585,266,1049,8,1800
+Xiaomi,Xiaomi 小米 MAX 3 (6+128GB),Snapdragon 636,Snapdragon 636,26,173445,276,1130,8,1800
+Lenovo,Lenovo S5 Pro (6+64GB),Snapdragon 636,Snapdragon 636,26,173445,276,1130,8,1800
+Lenovo,Lenovo K5 Pro,Snapdragon 636,Snapdragon 636,26,173445,276,1130,8,1800
+Sharp,Sharp 聲寶 AQUOS sense 3 Plus SHV46 (6+64GB),Snapdragon 636,Snapdragon 636,26,173445,276,1130,8,1800
+Sharp,Sharp 聲寶 AQUOS sense3 plus au版 (SHV46) (6+128GB),Snapdragon 636,Snapdragon 636,26,173445,276,1130,8,1800
+Honor,Honor 榮耀 8X Max (4+128GB),Snapdragon 636,Snapdragon 636,26,173445,276,1130,8,1800
+HTC,HTC U12 Life (4+64GB),Snapdragon 636,Snapdragon 636,26,173445,276,1130,8,1800
+Xiaomi,Xiaomi 小米 MAX 3 (4+64GB),Snapdragon 636,Snapdragon 636,26,173445,276,1130,8,1800
+Lenovo,Lenovo S5 Pro (6+128GB),Snapdragon 636,Snapdragon 636,26,173445,276,1130,8,1800
+Xiaomi,Xiaomi 小米 紅米 Note 6 Pro (4+64GB),Snapdragon 636,Snapdragon 636,26,173445,276,1130,8,1800
+Xiaomi,Xiaomi 小米 紅米 Note 6 Pro (4+64GB),Snapdragon 636,Snapdragon 636,26,173445,276,1130,8,1800
+ASUS,ASUS ZenFone 5 (ZE620KL),Snapdragon 636,Snapdragon 636,26,173445,276,1130,8,1800
+Lenovo,Lenovo K5 Pro (4+64GB),Snapdragon 636,Snapdragon 636,26,173445,276,1130,8,1800
+Nokia,Nokia 7 Plus (4+64GB),Snapdragon 660,Snapdragon 660,30,209520,336,1325,8,2200
+Xiaomi,Xiaomi 小米 紅米 Note 7 (6+64GB),Snapdragon 660,Snapdragon 660,30,209520,336,1325,8,2200
+Xiaomi,Xiaomi 小米 紅米 Note 7 (4+128GB),Snapdragon 660,Snapdragon 660,30,209520,336,1325,8,2200
+Vivo,Vivo X20 Plus (4+64GB),Snapdragon 660,Snapdragon 660,30,209520,336,1325,8,2200
+ASUS,ASUS ZenFone Max Pro (M2) ZB631KL (4+64GB),Snapdragon 660,Snapdragon 660,30,209520,336,1325,8,2200
+Xiaomi,Xiaomi 小米 紅米 Note 7 (4+64GB),Snapdragon 660,Snapdragon 660,30,209520,336,1325,8,2200
+Samsung,Samsung 三星 Galaxy A9 2018 (8+128GB),Snapdragon 660,Snapdragon 660,30,209520,336,1325,8,2200
+Sharp,Sharp 聲寶 AQUOS R Compact SHV41 (3+32GB),Snapdragon 660,Snapdragon 660,30,209520,336,1325,8,2200
+Oppo,Oppo R11s Plus (6+64GB),Snapdragon 660,Snapdragon 660,30,209520,336,1325,8,2200
+Oppo,Oppo R11 Plus (6+64GB),Snapdragon 660,Snapdragon 660,30,209520,336,1325,8,2200
+Oppo,Oppo R11s 星幕新年版,Snapdragon 660,Snapdragon 660,30,209520,336,1325,8,2200
+Oppo,Oppo R11s (4+64GB),Snapdragon 660,Snapdragon 660,30,209520,336,1325,8,2200
+Xiaomi,Xiaomi 小米 8 青春版 (6+64GB),Snapdragon 660,Snapdragon 660,30,209520,336,1325,8,2200
+Nokia,Nokia 7.2 (6+128GB),Snapdragon 660,Snapdragon 660,30,209520,336,1325,8,2200
+Xiaomi,Xiaomi 小米 8 Lite (6+128GB),Snapdragon 660,Snapdragon 660,30,209520,336,1325,8,2200
+Samsung,Samsung 三星 Galaxy A8 Star (4+64GB),Snapdragon 660,Snapdragon 660,30,209520,336,1325,8,2200
+Samsung,Samsung 三星 Galaxy A9 2018 (6+128GB),Snapdragon 660,Snapdragon 660,30,209520,336,1325,8,2200
+Caterpillar,Caterpillar S62 Pro (6+128GB),Snapdragon 660,Snapdragon 660,30,209520,336,1325,8,2200
+Oppo,Oppo A95 4G (8+128GB),Snapdragon 662,Snapdragon 662,32,209389,314,1406,8,2000
+Xiaomi,Xiaomi 小米 紅米 Redmi 9T (4+64GB),Snapdragon 662,Snapdragon 662,32,209389,314,1406,8,2000
+Oppo,Oppo A73 4G (4+64GB),Snapdragon 662,Snapdragon 662,32,209389,314,1406,8,2000
+Vivo,Vivo iQOO U1x (6+128GB),Snapdragon 662,Snapdragon 662,32,209389,314,1406,8,2000
+Lenovo,Lenovo 聯想樂檬 K12 Pro (4+64GB),Snapdragon 662,Snapdragon 662,32,209389,314,1406,8,2000
+Xiaomi,Xiaomi 小米 紅米 Redmi 9T (4+128GB),Snapdragon 662,Snapdragon 662,32,209389,314,1406,8,2000
+Xiaomi,Xiaomi 小米 POCO M3 (4+128GB),Snapdragon 662,Snapdragon 662,32,209389,314,1406,8,2000
+Lenovo,Lenovo K12 Note (4+128GB),Snapdragon 662,Snapdragon 662,32,209389,314,1406,8,2000
+Xiaomi,Xiaomi 小米 Redmi note 9 4G 6000電池版 (8+128GB),Snapdragon 662,Snapdragon 662,32,209389,314,1406,8,2000
+Nokia,Nokia 5.3 (6+64GB),Snapdragon 665,Snapdragon 665,31,198029,315,1357,8,2000
+Xiaomi,Xiaomi 小米 紅米 Redmi Note 8T (4+64GB),Snapdragon 665,Snapdragon 665,31,198029,315,1357,8,2000
+Xiaomi,Xiaomi 小米 紅米 Redmi Note 8T (3+32GB),Snapdragon 665,Snapdragon 665,31,198029,315,1357,8,2000
+Oppo,Oppo A11x (8+128GB),Snapdragon 665,Snapdragon 665,31,198029,315,1357,8,2000
+Xiaomi,Xiaomi 小米 紅米 RedMi Note 8 (6+128GB),Snapdragon 665,Snapdragon 665,31,198029,315,1357,8,2000
+Oppo,Oppo A11 (4+128GB),Snapdragon 665,Snapdragon 665,31,198029,315,1357,8,2000
+Oppo,Oppo A9 2020 (4+128GB),Snapdragon 665,Snapdragon 665,31,198029,315,1357,8,2000
+Vivo,Vivo S1 Pro Dual (8+128GB),Snapdragon 665,Snapdragon 665,31,198029,315,1357,8,2000
+TCL,TCL 10L (6+64GB),Snapdragon 665,Snapdragon 665,31,198029,315,1357,8,2000
+Vivo,Vivo V17 (8+128GB),Snapdragon 665,Snapdragon 665,31,198029,315,1357,8,2000
+HTC,HTC Desire 20 Pro (6+128GB),Snapdragon 665,Snapdragon 665,31,198029,315,1357,8,2000
+Nokia,Nokia 5.3 (4+64GB),Snapdragon 665,Snapdragon 665,31,198029,315,1357,8,2000
+Nokia,Nokia 5.3 (6+64GB),Snapdragon 665,Snapdragon 665,31,198029,315,1357,8,2000
+Xiaomi,Xiaomi 小米 紅米 Redmi Note 8 (4+128GB),Snapdragon 665,Snapdragon 665,31,198029,315,1357,8,2000
+Sony,Sony Xperia 10 II (4+128GB),Snapdragon 665,Snapdragon 665,31,198029,315,1357,8,2000
+Vivo,Vivo Y50 (8+128GB),Snapdragon 665,Snapdragon 665,31,198029,315,1357,8,2000
+realme,realme 5i (4+64GB),Snapdragon 665,Snapdragon 665,31,198029,315,1357,8,2000
+Vivo,Vivo S1 Pro Dual (8+128GB),Snapdragon 665,Snapdragon 665,31,198029,315,1357,8,2000
+Xiaomi,Xiaomi 小米 紅米 Redmi Note 8 (3+32GB),Snapdragon 665,Snapdragon 665,31,198029,315,1357,8,2000
+Xiaomi,Xiaomi 小米 Redmi Note 8 (4+64GB),Snapdragon 665,Snapdragon 665,31,198029,315,1357,8,2000
+Xiaomi,Xiaomi 小米 紅米 Redmi Note 8 (4+64GB),Snapdragon 665,Snapdragon 665,31,198029,315,1357,8,2000
+Google,Google Pixel 3a XL (4+64GB),Snapdragon 670,Snapdragon 670,33,218102,345,1327,8,2000
+Google,Google Pixel 3a (4+64GB),Snapdragon 670,Snapdragon 670,33,218102,345,1327,8,2000
+TCL,TCL Plex T1 (T780H) (6+128GB),Snapdragon 675,Snapdragon 675,34,261211,423,1389,8,2000
+Xiaomi,Xiaomi 小米 Redmi Note 10 (4+64GB),Snapdragon 678,Snapdragon 678,36,283724,533,1546,8,2200
+Xiaomi,Xiaomi 小米 Redmi Note 10 (4+128GB),Snapdragon 678,Snapdragon 678,36,283724,533,1546,8,2200
+Oppo,Oppo A76 4G (6+128GB),Snapdragon 680,Snapdragon 680,39,279886,375,1571,8,2400
+Samsung,Samsung 三星 Galaxy A23 4G (4+128GB),Snapdragon 680,Snapdragon 680,39,279886,375,1571,8,2400
+Samsung,Samsung 三星 Galaxy A23 4G (6+128GB),Snapdragon 680,Snapdragon 680,39,279886,375,1571,8,2400
+Xiaomi,Xiaomi 小米 Redmi Note 11 NFC (6+128GB),Snapdragon 680,Snapdragon 680,39,279886,375,1571,8,2400
+Huawei,Huawei Nova 9 SE (8+128GB),Snapdragon 680,Snapdragon 680,39,279886,375,1571,8,2400
+realme,realme 9i 4G (6+128GB),Snapdragon 680,Snapdragon 680,39,279886,375,1571,8,2400
+Xiaomi,Xiaomi 小米 Redmi Note 11 NFC (4+64GB),Snapdragon 680,Snapdragon 680,39,279886,375,1571,8,2400
+Xiaomi,Xiaomi 小米 Redmi Note 11 NFC (4+128GB),Snapdragon 680,Snapdragon 680,39,279886,375,1571,8,2400
+Xiaomi,Xiaomi 小米 Redmi Note 11 4G (4+128GB),Snapdragon 680,Snapdragon 680,39,279886,375,1571,8,2400
+Xiaomi,Xiaomi 小米 Redmi Note 11 4G (4+64GB),Snapdragon 680,Snapdragon 680,39,279886,375,1571,8,2400
+Xiaomi,Xiaomi 小米 Redmi Note 11 4G (6+128GB),Snapdragon 680,Snapdragon 680,39,279886,375,1571,8,2400
+realme,realme 9i 4G (4+128GB),Snapdragon 680,Snapdragon 680,39,279886,375,1571,8,2400
+Sony,Sony Xperia 10 III (6+128GB),Snapdragon 690,Snapdragon 690,44,348767,608,1853,8,2000
+Sharp,Sharp 聲寶 AQUOS Sense 5G SH-M17 (4+64GB),Snapdragon 690,Snapdragon 690,44,348767,608,1853,8,2000
+OnePlus,OnePlus Nord N10 5G (6+128GB),Snapdragon 690,Snapdragon 690,44,348767,608,1853,8,2000
+Xiaomi,Xiaomi 小米 Redmi Note 11 Pro 5G (8+128GB),Snapdragon 695,Snapdragon 695,50,403915,704,2018,8,2200
+Xiaomi,Xiaomi 小米 Redmi Note 11 Pro 5G (6+128GB),Snapdragon 695,Snapdragon 695,50,403915,704,2018,8,2200
+Xiaomi,Xiaomi 小米 POCO X4 Pro 5G (8+256GB),Snapdragon 695,Snapdragon 695,50,403915,704,2018,8,2200
+Xiaomi,Xiaomi 小米 POCO X4 Pro 5G (6+128GB),Snapdragon 695,Snapdragon 695,50,403915,704,2018,8,2200
+Xiaomi,Xiaomi 小米 Redmi Note 11 Pro 5G (6+64GB),Snapdragon 695,Snapdragon 695,50,403915,704,2018,8,2200
+Vivo,Vivo iQOO U5 5G (8+128GB),Snapdragon 695,Snapdragon 695,50,403915,704,2018,8,2200
+Samsung,Samsung 三星 Galaxy A8s (6+128GB),Snapdragon 710,Snapdragon 710,36,262450,393,1452,8,2200
+Lenovo,Lenovo Z5s (6+64GB),Snapdragon 710,Snapdragon 710,36,262450,393,1452,8,2200
+Oppo,Oppo Reno (6+256GB),Snapdragon 710,Snapdragon 710,36,262450,393,1452,8,2200
+Xiaomi,Xiaomi 小米 8 SE (4+64GB),Snapdragon 710,Snapdragon 710,36,262450,393,1452,8,2200
+Meizu,Meizu 魅族 X8 (4+64GB),Snapdragon 710,Snapdragon 710,36,262450,393,1452,8,2200
+Lenovo,Lenovo Z5s (4+64GB),Snapdragon 710,Snapdragon 710,36,262450,393,1452,8,2200
+Nokia,Nokia X7 (6+64GB),Snapdragon 710,Snapdragon 710,36,262450,393,1452,8,2200
+Vivo,Vivo X27 (8+256GB),Snapdragon 710,Snapdragon 710,36,262450,393,1452,8,2200
+Nokia,Nokia X7 (4+64GB),Snapdragon 710,Snapdragon 710,36,262450,393,1452,8,2200
+Lenovo,Lenovo Z6 青春版 (6+64GB),Snapdragon 710,Snapdragon 710,36,262450,393,1452,8,2200
+Nokia,Nokia 8.1 (4+64GB),Snapdragon 710,Snapdragon 710,36,262450,393,1452,8,2200
+Xiaomi,Xiaomi 小米 CC9 (6+128GB),Snapdragon 710,Snapdragon 710,36,262450,393,1452,8,2200
+Xiaomi,Xiaomi 小米 9 SE (6+64GB),Snapdragon 712,Snapdragon 712,38,281404,403,1506,8,2300
+realme,realme XT (8+128GB),Snapdragon 712,Snapdragon 712,38,281404,403,1506,8,2300
+realme,realme 8 Pro 4G (8+128GB),Snapdragon 720G,Snapdragon 720G,44,340872,573,1713,8,2300
+Samsung,Samsung 三星 Galaxy A52 4G (8+128GB),Snapdragon 720G,Snapdragon 720G,44,340872,573,1713,8,2300
+Samsung,Samsung 三星 Galaxy A72 4G (8+256GB),Snapdragon 720G,Snapdragon 720G,44,340872,573,1713,8,2300
+Samsung,Samsung 三星 Galaxy A72 4G (8+128GB),Snapdragon 720G,Snapdragon 720G,44,340872,573,1713,8,2300
+Samsung,Samsung 三星 Galaxy A52 4G (8+256GB),Snapdragon 720G,Snapdragon 720G,44,340872,573,1713,8,2300
+Xiaomi,Xiaomi 小米 紅米 Redmi Note 9 Pro (6+64GB),Snapdragon 720G,Snapdragon 720G,44,340872,573,1713,8,2300
+Sharp,Sharp 聲寶 AQUOS sense4 (sh-ｍ15 dual sim),Snapdragon 720G,Snapdragon 720G,44,340872,573,1713,8,2300
+Xiaomi,Xiaomi 小米 Redmi Note 9S (6+128GB),Snapdragon 720G,Snapdragon 720G,44,340872,573,1713,8,2300
+Xiaomi,Xiaomi 小米 紅米 Redmi Note 9 Pro (6+128GB),Snapdragon 720G,Snapdragon 720G,44,340872,573,1713,8,2300
+HTC,HTC Desire 20+ (6+128GB),Snapdragon 720G,Snapdragon 720G,44,340872,573,1713,8,2300
+RealMe,RealMe 6 Pro (8+128GB),Snapdragon 720G,Snapdragon 720G,44,340872,573,1713,8,2300
+realme,realme 7 Pro (8+128GB),Snapdragon 720G,Snapdragon 720G,44,340872,573,1713,8,2300
+Sharp,Sharp 聲寶 AQUOS sense4 plus (sh-m16 dual sim),Snapdragon 720G,Snapdragon 720G,44,340872,573,1713,8,2300
+Samsung,Samsung 三星 Galaxy A80 (8+128GB),Snapdragon 730,Snapdragon 730,43,320968,542,1788,8,2200
+Xiaomi,Xiaomi 小米 M9T 智能手機 國際版 (6+64GB),Snapdragon 730,Snapdragon 730,43,320968,542,1788,8,2200
+Xiaomi,Xiaomi 小米 M9T 智能手機 國際版 (6+128GB),Snapdragon 730,Snapdragon 730,43,320968,542,1788,8,2200
+Oppo,Oppo Reno 2 (8+128GB),Snapdragon 730G,Snapdragon 730G,43,334191,542,1735,8,2200
+Oppo,Oppo K5 (6+128GB),Snapdragon 730G,Snapdragon 730G,43,334191,542,1735,8,2200
+Xiaomi,Xiaomi 小米 紅米 Redmi K30 (8+256GB),Snapdragon 730G,Snapdragon 730G,43,334191,542,1735,8,2200
+Oppo,Oppo Reno 2 (8+256GB),Snapdragon 730G,Snapdragon 730G,43,334191,542,1735,8,2200
+Xiaomi,Xiaomi 小米 Note 10 Lite (6+64GB),Snapdragon 730G,Snapdragon 730G,43,334191,542,1735,8,2200
+Xiaomi,Xiaomi 小米 紅米 Redmi K30 (8+128GB),Snapdragon 730G,Snapdragon 730G,43,334191,542,1735,8,2200
+Xiaomi,Xiaomi 小米 Note 10 (6+128GB),Snapdragon 730G,Snapdragon 730G,43,334191,542,1735,8,2200
+realme,realme X2 (6+64GB),Snapdragon 730G,Snapdragon 730G,43,334191,542,1735,8,2200
+realme,realme X2 (6+64GB),Snapdragon 730G,Snapdragon 730G,43,334191,542,1735,8,2200
+Xiaomi,Xiaomi 小米 Note 10 Pro (8+256GB),Snapdragon 730G,Snapdragon 730G,43,334191,542,1735,8,2200
+Google,Google Pixel 4a (6+128GB),Snapdragon 730G,Snapdragon 730G,43,334191,542,1735,8,2200
+Samsung,Samsung 三星 M51 (8+128GB),Snapdragon 730G,Snapdragon 730G,43,334191,542,1735,8,2200
+Xiaomi,Xiaomi 小米 Note 10 Lite (6+128GB),Snapdragon 730G,Snapdragon 730G,43,334191,542,1735,8,2200
+Xiaomi,Xiaomi 小米 CC9 Pro (8+128GB),Snapdragon 730G,Snapdragon 730G,43,334191,542,1735,8,2200
+realme,realme X2 (8+128GB),Snapdragon 730G,Snapdragon 730G,43,334191,542,1735,8,2200
+Xiaomi,Xiaomi 小米 紅米 Redmi K30 (6+128GB),Snapdragon 730G,Snapdragon 730G,43,334191,542,1735,8,2200
+Xiaomi,Xiaomi 小米 紅米 Redmi Note 10 Pro 4G (8+128GB),Snapdragon 732G,Snapdragon 732G,45,348908,570,1802,8,2300
+Xiaomi,Xiaomi 小米 紅米 Redmi Note 10 Pro (6+128GB),Snapdragon 732G,Snapdragon 732G,45,348908,570,1802,8,2300
+Xiaomi,Xiaomi 小米 POCO X3 NFC (6+64GB),Snapdragon 732G,Snapdragon 732G,45,348908,570,1802,8,2300
+Xiaomi,Xiaomi 小米 Mi 11 Lite (6+128GB),Snapdragon 732G,Snapdragon 732G,45,348908,570,1802,8,2300
+OnePlus,OnePlus Nord CE 5G (12+256GB),Snapdragon 750G,Snapdragon 750G,47,388734,661,2004,8,2200
+Samsung,Samsung 三星 Galaxy A52 5G (8+256GB),Snapdragon 750G,Snapdragon 750G,47,388734,661,2004,8,2200
+Samsung,Samsung 三星 Galaxy A52 5G (6+128GB),Snapdragon 750G,Snapdragon 750G,47,388734,661,2004,8,2200
+OnePlus,OnePlus Nord CE 5G (8+128GB),Snapdragon 750G,Snapdragon 750G,47,388734,661,2004,8,2200
+Xiaomi,Xiaomi 小米 紅米 Redmi Note 9 Pro 5G (8+128GB),Snapdragon 750G,Snapdragon 750G,47,388734,661,2004,8,2200
+realme,realme Q3 5G (6+128GB),Snapdragon 750G,Snapdragon 750G,47,388734,661,2004,8,2200
+Oppo,Oppo Reno5 K 5G (8+128GB),Snapdragon 750G,Snapdragon 750G,47,388734,661,2004,8,2200
+Xiaomi,Xiaomi 小米 紅米 Redmi Note 9 Pro 5G (6+128GB),Snapdragon 750G,Snapdragon 750G,47,388734,661,2004,8,2200
+Samsung,Samsung 三星 Galaxy F52 5G (8+128GB),Snapdragon 750G,Snapdragon 750G,47,388734,661,2004,8,2200
+Sharp,Sharp 聲寶 AQUOS Zero6 (8+128GB),Snapdragon 750G,Snapdragon 750G,47,388734,661,2004,8,2200
+Oppo,Oppo Find X2 Neo (12+256GB),Snapdragon 765,Snapdragon 765,48,339861,597,1925,8,2300
+LG,LG 樂金 Velvet (8+128GB),Snapdragon 765,Snapdragon 765,48,339861,597,1925,8,2300
+Xiaomi,Xiaomi 小米 紅米 Redmi K30 5G (6+64GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Xiaomi,Xiaomi 小米 10 青春版 5G (6+128GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Vivo,Vivo X50 5G (8+256GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+realme,realme X50 5G (8+128GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+OnePlus,OnePlus Nord 5G (8+128GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Xiaomi,Xiaomi 小米 10 青春版 5G (6+64GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+realme,realme X50 5G (6+128GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Vivo,Vivo X50 5G (8+128GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Oppo,Oppo Reno 3 Pro 5G (8+128GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Oppo,Oppo Reno5 5G (8+128GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Oppo,Oppo Reno 3 Pro 5G (12+256GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Oppo,Oppo K7 5G (8+128GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+LG,LG 樂金 WING 5G (8+128GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Oppo,Oppo Reno4 Pro 5G (8+128GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Oppo,Oppo Reno5 5G (12+256GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Fujitsu,Fujitsu arrows NX9 f-52a (docomo),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Xiaomi,Xiaomi 小米 10 Lite 5G (6+128GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Xiaomi,Xiaomi 小米 紅米 Redmi K30i 5G (6+128GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Vivo,Vivo iQOO Z1x 5G (8+256GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Vivo,Vivo S7 5G (8+128GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Xiaomi,Xiaomi 小米 10 青春版 5G (8+256GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Vivo,Vivo X50 Pro 5G (8+128GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Oppo,Oppo Reno5 A 5G (6+128GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Vivo,Vivo X50 Pro 5G (8+256GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+OnePlus,OnePlus Nord 5G (12+256GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Oppo,Oppo Reno4 Pro 5G (12+256GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Motorola,Motorola Razr 5G Dual (8+256GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Oppo,Oppo Find X3 Lite (8+128GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Xiaomi,Xiaomi 小米 10 Lite 5G (8+256GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Vivo,Vivo X50e 5G (8+128GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Nokia,Nokia 8.3 5G (8+128GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Google,Google Pixel 5 5G (8+128GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+LG,LG 樂金 Velvet 5G (6+128GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Google,Google Pixel 4a 5G (6+128GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Vivo,Vivo iQOO Z1x 5G (8+128GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Oppo,Oppo Reno4 5G (8+128GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Google,Google Pixel 5a 5G (6+128GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Nubia,Nubia Play 5G (8+128GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Oppo,Oppo Reno4 5G (8+256GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Motorola,Motorola Moto Edge 5G (6+128GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+HTC,HTC U20 5G (8+256GB),Snapdragon 765G,Snapdragon 765G,49,379740,589,1805,8,2400
+Xiaomi,Xiaomi 小米 紅米 Redmi K30 5G 極速版 (6+128GB),Snapdragon 768G,Snapdragon 768G,54,447962,708,2005,8,2800
+Oppo,Oppo K9 5G (8+128GB),Snapdragon 768G,Snapdragon 768G,54,447962,708,2005,8,2800
+Vivo,Vivo iQOO Z3 5G (8+128GB),Snapdragon 768G,Snapdragon 768G,54,447962,708,2005,8,2800
+Vivo,Vivo iQOO Z3 5G (8+256GB),Snapdragon 768G,Snapdragon 768G,54,447962,708,2005,8,2800
+Samsung,Samsung 三星 Galaxy A52s 5G (8+256GB),Snapdragon 778G,Snapdragon 778G,62,533316,775,2818,8,2400
+Xiaomi,Xiaomi 小米 11 Lite 5G NE (6+128GB),Snapdragon 778G,Snapdragon 778G,62,533316,775,2818,8,2400
+Samsung,Samsung 三星 M52 5G (8+128GB),Snapdragon 778G,Snapdragon 778G,62,533316,775,2818,8,2400
+realme,realme GT 大師版 5G (8+256GB),Snapdragon 778G,Snapdragon 778G,62,533316,775,2818,8,2400
+Honor,Honor 榮耀 50 5G (8+256GB),Snapdragon 778G,Snapdragon 778G,62,533316,775,2818,8,2400
+Honor,Honor 榮耀 60 5G (8+128GB),Snapdragon 778G,Snapdragon 778G,62,533316,775,2818,8,2400
+Huawei,Huawei Nova 9 Pro 4G (8+256GB),Snapdragon 778G,Snapdragon 778G,62,533316,775,2818,8,2400
+Oppo,Oppo Reno7 5G (8+128GB),Snapdragon 778G,Snapdragon 778G,62,533316,775,2818,8,2400
+Vivo,Vivo iQOO Z5 5G (8+128GB),Snapdragon 778G,Snapdragon 778G,62,533316,775,2818,8,2400
+Honor,Honor 榮耀 50 5G (8+128GB),Snapdragon 778G,Snapdragon 778G,62,533316,775,2818,8,2400
+Xiaomi,Xiaomi 小米 11 Lite 5G NE (8+256GB),Snapdragon 778G,Snapdragon 778G,62,533316,775,2818,8,2400
+Honor,Honor 榮耀 50 Pro (8+256GB),Snapdragon 778G,Snapdragon 778G,62,533316,775,2818,8,2400
+Xiaomi,Xiaomi 小米 Civi 5G (8+128GB),Snapdragon 778G,Snapdragon 778G,62,533316,775,2818,8,2400
+realme,realme GT 大師版 5G (8+128GB),Snapdragon 778G,Snapdragon 778G,62,533316,775,2818,8,2400
+Xiaomi,Xiaomi 小米 11 Lite 5G NE (8+128GB),Snapdragon 778G,Snapdragon 778G,62,533316,775,2818,8,2400
+Huawei,Huawei Nova 9 (8+256GB),Snapdragon 778G,Snapdragon 778G,62,533316,775,2818,8,2400
+Samsung,Samsung 三星 Galaxy A52s 5G (6+128GB),Snapdragon 778G,Snapdragon 778G,62,533316,775,2818,8,2400
+Samsung,Samsung 三星 Galaxy A52s 5G (8+128GB),Snapdragon 778G,Snapdragon 778G,62,533316,775,2818,8,2400
+Honor,Honor 榮耀 60 Pro 5G (8+256GB),Snapdragon 778G,Snapdragon 778G,62,533316,775,2818,8,2400
+realme,realme GT 大師版 5G (6+128GB),Snapdragon 778G,Snapdragon 778G,62,533316,775,2818,8,2400
+Xiaomi,Xiaomi 小米 11 青春版 5G (8+128GB),Snapdragon 780G,Snapdragon 780G,64,534005,809,2929,8,2400
+Xiaomi,Xiaomi 小米 11 Lite 5G (6+128GB),Snapdragon 780G,Snapdragon 780G,64,534005,809,2929,8,2400
+Motorola,Motorola Edge 30 Pro 5G (12+256GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+Samsung,Samsung 三星 Galaxy S22 5G (8+256GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+realme,realme GT2 Pro 5G (12+256GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+Xiaomi,Xiaomi 小米 紅米 Redmi K50 電競版 5G (8+128GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+Xiaomi,Xiaomi 小米 12 5G (8+128GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+Xiaomi,Xiaomi 小米 12 5G (8+256GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+Vivo,Vivo iQOO 9 Pro 5G (12+512GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+Honor,Honor 榮耀 Magic4 Pro 5G (8+256GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+Oppo,Oppo Find X5 Pro 5G (12+256GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+realme,realme GT2 Pro 5G 大師·紙 (8+256GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+Vivo,Vivo iQOO 9 5G 賽道版 (8+256GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+Vivo,Vivo iQOO 9 5G 傳奇版 (8+256GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+Vivo,Vivo iQOO 9 Pro 5G (8+256GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+Honor,Honor 榮耀 Magic4 5G (8+256GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+Honor,Honor 榮耀 Magic V 5G 折疊旗艦 (12+256GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+OnePlus,OnePlus 10 Pro 5G (12+256GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+Samsung,Samsung 三星 Galaxy S22+ 5G (8+256GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+Vivo,Vivo iQOO 9 Pro 5G (12+256GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+OnePlus,OnePlus 10 Pro 5G (8+128GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+Nubia,Nubia RedMagic 紅魔7 透明版 (16+256GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+Samsung,Samsung 三星 Galaxy S22 Ultra 5G (12GB+1TB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+Samsung,Samsung 三星 Galaxy S22 Ultra 5G (12+256GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+Samsung,Samsung 三星 Galaxy S22 5G (8+128GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+Nubia,Nubia RedMagic 紅魔7 透明版 (18+256GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+OnePlus,OnePlus 10 Pro 5G (12+512GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+Samsung,Samsung 三星 Galaxy S22 Ultra 5G (12+512GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+Nubia,Nubia RedMagic 紅魔7 (12+128GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+Xiaomi,Xiaomi 小米 12 Pro 5G (12+256GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+Xiaomi,Xiaomi 小米 12 Pro 5G (8+128GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+Xiaomi,Xiaomi 小米 12 5G (12+256GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+OnePlus,OnePlus 10 Pro 5G (8+256GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+Motorola,Motorola Edge X30 5G (8+128GB),Snapdragon 8,Snapdragon 8,94,1040630,1222,3809,8,3000
+HTC,HTC 10 64GB,Snapdragon 820,Snapdragon 820,34,265732,322,807,4,2200
+HTC,HTC 10 32GB,Snapdragon 820,Snapdragon 820,34,265732,322,807,4,2200
+LG,LG 樂金 V20 (4+64GB) (單卡),Snapdragon 820,Snapdragon 820,34,265732,322,807,4,2200
+LG,LG 樂金 V20 (4+64GB) (雙卡),Snapdragon 820,Snapdragon 820,34,265732,322,807,4,2200
+Motorola,Motorola Moto Z Force (4+32GB),Snapdragon 820,Snapdragon 820,34,265732,322,807,4,2200
+Sony,Sony Xperia X Performance,Snapdragon 820,Snapdragon 820,34,265732,322,807,4,2200
+Sony,Sony Xperia XZ,Snapdragon 820,Snapdragon 820,34,265732,322,807,4,2200
+ZTE,ZTE M Z-01K (4+64GB),Snapdragon 821,Snapdragon 821,29,200170,342,754,4,2342
+Google,Google Pixel XL 128GB,Snapdragon 821,Snapdragon 821,29,200170,342,754,4,2342
+Google,Google Pixel 128GB,Snapdragon 821,Snapdragon 821,29,200170,342,754,4,2342
+Google,Google Pixel XL 32GB,Snapdragon 821,Snapdragon 821,29,200170,342,754,4,2342
+ZTE,ZTE Axon M 折疊雙屏,Snapdragon 821,Snapdragon 821,29,200170,342,754,4,2342
+Google,Google Pixel 32GB,Snapdragon 821,Snapdragon 821,29,200170,342,754,4,2342
+LG,LG 樂金 G7 Fit (4+64GB),Snapdragon 821,Snapdragon 821,29,200170,342,754,4,2342
+LG,LG 樂金 V30 (4+64GB),Snapdragon 835,Snapdragon 835,42,315794,388,1717,8,2450
+Google,Google Pixel 2 XL 128GB,Snapdragon 835,Snapdragon 835,42,315794,388,1717,8,2450
+Nokia,Nokia 8 (4+64GB),Snapdragon 835,Snapdragon 835,42,315794,388,1717,8,2450
+Google,Google Pixel 2 XL 64GB,Snapdragon 835,Snapdragon 835,42,315794,388,1717,8,2450
+OnePlus,OnePlus 5T (8+128GB),Snapdragon 835,Snapdragon 835,42,315794,388,1717,8,2450
+Sony,Sony Xperia XZ1 Compact,Snapdragon 835,Snapdragon 835,42,315794,388,1717,8,2450
+Sony,Sony Xperia XZ Premium (4+64GB),Snapdragon 835,Snapdragon 835,42,315794,388,1717,8,2450
+Google,Google Pixel 2 64GB,Snapdragon 835,Snapdragon 835,42,315794,388,1717,8,2450
+Motorola,Motorola Moto Z2 Force (4+64GB),Snapdragon 835,Snapdragon 835,42,315794,388,1717,8,2450
+Motorola,Motorola Moto Z2 Force (6+128GB),Snapdragon 835,Snapdragon 835,42,315794,388,1717,8,2450
+Google,Google Pixel 2 128GB,Snapdragon 835,Snapdragon 835,42,315794,388,1717,8,2450
+Sony,Sony Xperia XZ1 (4+64GB),Snapdragon 835,Snapdragon 835,42,315794,388,1717,8,2450
+LG,LG 樂金 V30+ (4+128GB),Snapdragon 835,Snapdragon 835,42,315794,388,1717,8,2450
+Essential,Essential PH-1,Snapdragon 835,Snapdragon 835,42,315794,388,1717,8,2450
+Sony,Sony Xperia XZ2 (6+64GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+Vivo,Vivo NEX雙屏版 (NEX Dual Display Edition) (10+128GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+OnePlus,OnePlus 6T (8+256GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+Google,Google Pixel 3 (4+128GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+Nokia,Nokia 9 PureView,Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+OnePlus,OnePlus 6T (8+128GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+Sharp,Sharp 聲寶 AQUOS R2 compact (4+64GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+Google,Google Pixel 3 XL (4+64GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+Sharp,Sharp 聲寶 AQUOS R2 (4+64GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+Sony,Sony Xperia XZ2 Compact (4+64GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+Xiaomi,Xiaomi 小米 8 (6+128GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+Xiaomi,Xiaomi 小米 MIX 2S (6+128GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+LG,LG 樂金 V40 ThinQ (6+128GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+AGM,AGM X3 (6+64GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+LG,LG 樂金 Docomo style3 L-41A (4+64GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+Sony,Sony Xperia XZ2 Premium (6+64GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+Google,Google Pixel 3 XL (4+128GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+Sony,Sony Xperia XZ3 (4+64GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+Google,Google Pixel 3 (4+64GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+Vivo,Vivo NEX (8+256GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+Xiaomi,Xiaomi 小米 MIX 2S (6+64GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+Vivo,Vivo NEX (8+128GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+LG,LG 樂金 G7+ ThinQ (6+128GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+Sony,Sony Xperia XZ3 (6+64GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+Xiaomi,Xiaomi 小米 MIX 3 (8+128GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+Vivo,Vivo iQOO Neo (8+128GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+黑鯊,黑鯊 遊戲手機 (6+64GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+黑鯊,黑鯊 遊戲手機 (8+128GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+Xiaomi,Xiaomi 小米 MIX 2S (8+256GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+Xiaomi,Xiaomi 小米 MIX 3 (6+128GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+LG,LG 樂金 G7 ThinQ (4+64GB),Snapdragon 845,Snapdragon 845,53,409531,513,2208,8,2800
+Xiaomi,Xiaomi 小米 9T Pro (8+256GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+LG,LG 樂金 G8 ThinQ (6+128GB) [韓版三鏡頭],Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Samsung,Samsung 三星 Galaxy Fold 5G (12+512GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Google,Google Pixel 4 (6+128GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+ASUS,ASUS ZenFone 6 (ZS630KL) (6+128GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Sony,Sony Xperia 1,Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Google,Google Pixel 4 XL (6+64GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Sharp,Sharp 聲寶 AQUOS zero2 (SH-01M) (8+256GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+OnePlus,OnePlus 7T Pro (8+256GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+OnePlus,OnePlus 7T (8+128GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+OnePlus,OnePlus 7T Pro McLaren Edition (12+256GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+OnePlus,OnePlus 7T (8+256GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Samsung,Samsung 三星 Galaxy S10e (8+256GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Samsung,Samsung 三星 Galaxy S10 Lite (6+128GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Samsung,Samsung 三星 Galaxy S10 Lite (8+128GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Oppo,Oppo Reno Ace (8+128GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+LG,LG 樂金 V50S ThinQ,Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Google,Google Pixel 4 XL (6+128GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+OnePlus,OnePlus 7 Pro (6+128GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Sony,Sony Xperia 5 (6+128GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Google,Google Pixel 4 (6+64GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+OnePlus,OnePlus 7 GM1900 (8+256GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+ASUS,ASUS ZenFone 6 (ZS630KL) (8+256GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Lenovo,Lenovo Z5 Pro GT (6+128GB) 碳纖黑,Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Vivo,Vivo iQOO (12+128GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+LG,LG 樂金 G8 ThinQ (6+128GB) [美版雙鏡頭],Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Lenovo,Lenovo Z5 Pro GT (8+128GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+OnePlus,OnePlus 7T Pro (8+256) 英國版,Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+OnePlus,OnePlus 7 GM1900 (12+256GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Samsung,Samsung 三星 Galaxy Fold (12+512GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Xiaomi,Xiaomi 小米 9 (6+64GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+ASUS,ASUS ZenFone 6 (ZS630KL) (12+512GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Vivo,Vivo iQOO (6+128GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+OnePlus,OnePlus 7 Pro (8+256GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Sharp,Sharp 聲寶 AQUOS R3,Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+OnePlus,OnePlus 7 Pro (12+256GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Samsung,Samsung 三星 Galaxy Note10+ 5G (12+512GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Vivo,Vivo iQOO (8+128GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Vivo,Vivo iQOO Pro 5G (12+256GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+黑鯊,黑鯊 遊戲手機 2 (8+128GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Vivo,Vivo iQOO Pro 5G (8+256GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Vivo,Vivo iQOO Neo 855版 (8+256GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Vivo,Vivo NEX 3 5G (8+256GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Oppo,Oppo Reno 10X 十倍變焦版 (8+256GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Nubia,Nubia Z20 (8+128GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Xiaomi,Xiaomi 小米 9 Pro 5G (12+512GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Vivo,Vivo iQOO Pro (12+128GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Xiaomi,Xiaomi 小米 9 Pro 5G (12+256GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+黑鯊,黑鯊 遊戲手機 2 (6+128GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+LG,LG 樂金 G8S ThinQ (6+128GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Nubia,Nubia Z20 (8+128GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Xiaomi,Xiaomi 小米 紅米 K20 Pro (6+128GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Samsung,Samsung 三星 Galaxy Note10 (8+256GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Xiaomi,Xiaomi 小米 紅米 K20 Pro (8+128GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Xiaomi,Xiaomi 小米 9 (6+128GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Vivo,Vivo iQOO (12+256GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Xiaomi,Xiaomi 小米 紅米 K20 Pro (8+256GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Samsung,Samsung 三星 Galaxy Note10+ (12+256GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+黑鯊,黑鯊 遊戲手機 2 (12+256GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Samsung,Samsung 三星 Galaxy Note10+ (12+256GB) (Star Wars Special Edition),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Xiaomi,Xiaomi 小米 9 (8+128GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Lenovo,Lenovo Z5 Pro GT (8+256GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Samsung,Samsung 三星 Galaxy Note10+ (12+512GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Samsung,Samsung 三星 Galaxy Note10+ 5G (12+256GB),Snapdragon 855,Snapdragon 855,63,515977,747,2630,8,2840
+Xiaomi,Xiaomi 小米 POCO X3 Pro (8+256GB),Snapdragon 860,Snapdragon 860,67,569176,735,2586,8,2960
+Xiaomi,Xiaomi 小米 POCO X3 Pro (6+128GB),Snapdragon 860,Snapdragon 860,67,569176,735,2586,8,2960
+Xiaomi,Xiaomi 小米 Mi 10T 5G (8+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+OnePlus,OnePlus 8T 5G (12+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Xiaomi,Xiaomi 小米 Mi 10T Pro 5G (8+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+ASUS,ASUS ZenFone 7 Pro (ZS671KS) (8+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+realme,realme X50 Pro 5G (8+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+黑鯊,黑鯊 遊戲手機 3S 5G (12+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Xiaomi,Xiaomi 小米 Mi 10T Pro 5G (8+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Xiaomi,Xiaomi 小米 紅米 Redmi K30 Pro 5G 變焦版 (8+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Xiaomi,Xiaomi 小米 紅米 Redmi K30 Pro 5G 變焦版 (8+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Samsung,Samsung 三星 Galaxy S20 Ultra 5G (12+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+黑鯊,黑鯊 遊戲手機 3S 5G (12+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Oppo,Oppo Find X2 5G (8+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Samsung,Samsung 三星 Galaxy S20 Ultra 5G (16+512GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Oppo,Oppo Find X2 英雄聯盟 S10 限定版 5G (8+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Vivo,Vivo iQOO 3 5G (12+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Samsung,Samsung 三星 Galaxy S20+ 5G (12+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Samsung,Samsung 三星 Galaxy S20 5G (12+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Samsung,Samsung 三星 Galaxy S20+ 5G (12+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Xiaomi,Xiaomi 小米 紅米 Redmi K30 Pro 5G (6+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Samsung,Samsung 三星 Galaxy S20 Ultra 5G (12+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+ASUS,ASUS ZenFone 7 (ZS670KS) (6+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Samsung,Samsung 三星 Galaxy S20 (8+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+ASUS,ASUS ZenFone 7 (ZS670KS) (8+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Samsung,Samsung 三星 Galaxy S20+ (8+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+OnePlus,OnePlus 8T 5G (8+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Samsung,Samsung 三星 Galaxy S20 Ultra (12+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Nubia,Nubia RedMagic 5G (8+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Xiaomi,Xiaomi 小米 紅米 Redmi K30 Pro 5G (8+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Motorola,Motorola Edge+ 5G (12+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Vivo,Vivo iQOO Neo3 5G (8+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+OnePlus,OnePlus 8 Pro 5G (8+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Lenovo,Lenovo Legion Pro 5G 拯救者電競手機 (12+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Lenovo,Lenovo Legion Pro 5G 拯救者電競手機 至尊透明版 (16+512GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+ASUS,ASUS ROG Phone 3 Strix (12+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+ASUS,ASUS ROG Phone 3 Strix (8+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Vivo,Vivo iQOO 3 5G (8+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Xiaomi,Xiaomi 小米 Pocophone F2 Pro 5G (8+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Nubia,Nubia 紅魔5G (8+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+OnePlus,OnePlus 8 5G (12+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Vivo,Vivo iQOO Neo3 5G (12+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Xiaomi,Xiaomi 小米 10 至尊紀念版 5G (8+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Lenovo,Lenovo Legion Pro 5G 拯救者電競手機 (12+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Oppo,Oppo Find X2 Pro (12+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Vivo,Vivo iQOO Neo3 5G (8+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Samsung,Samsung 三星 Galaxy S20 FE 5G (8+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+realme,realme X50 Pro 5G 玩家版 (12+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Oppo,Oppo Find X2 英雄聯盟 S10 限定版 5G (8+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Samsung,Samsung 三星 Galaxy S20 FE 5G (6+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Oppo,Oppo Reno5 Pro+ 5G (12+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+黑鯊,黑鯊 遊戲手機 3 5G (12+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Nubia,Nubia 紅魔5G (12+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Nubia,Nubia 紅魔5S 5G (12+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Xiaomi,Xiaomi 小米 10 至尊紀念版 5G (16+512GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Oppo,Oppo Find X2 Pro (12+512GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Lenovo,Lenovo Legion Pro 5G 拯救者電競手機 (8+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Sharp,Sharp 聲寶 AQUOS R5G (12+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Sony,Sony Xperia 1 II (8+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Nubia,Nubia 紅魔5S 5G (8+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Xiaomi,Xiaomi 小米 Redmi K30S 至尊紀念版 5G (8+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Oppo,Oppo Ace2 5G (8+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Xiaomi,Xiaomi 小米 10 Pro 5G (8+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Xiaomi,Xiaomi 小米 10 5G (8+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+OnePlus,OnePlus 8 5G (8+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Vivo,Vivo iQOO 5 Pro 5G 賽道版 (8+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+LG,LG 樂金 V60 ThinQ 5G (8+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+黑鯊,黑鯊 遊戲手機 3 Pro 5G (8+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Vivo,Vivo iQOO 3 5G (12+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Xiaomi,Xiaomi 小米 Pocophone F2 Pro 5G (6+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Xiaomi,Xiaomi 小米 10 Pro 5G (12+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Oppo,Oppo Ace2 5G (8+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+黑鯊,黑鯊 遊戲手機 3 Pro 5G (12+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Smartisan,Smartisan 堅果 R2 5G (8+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+黑鯊,黑鯊 遊戲手機 3 5G (8+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+ASUS,ASUS ROG Phone 3 精英版 (12+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Xiaomi,Xiaomi 小米 10 至尊紀念版 5G (8+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Oppo,Oppo Reno5 Pro+ 5G (8+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Fujitsu,Fujitsu arrows 5G (F-51A),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Oppo,Oppo Find X3 Neo 5G (12+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Sony,Sony Xperia 5 II 5G (8+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Sony,Sony Xperia 1 II 5G (12+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Xiaomi,Xiaomi 小米 10 Pro 5G (12+512GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Vivo,Vivo X50 Pro+ 5G (12+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Nubia,Nubia 紅魔5G (12+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+黑鯊,黑鯊 遊戲手機 3 5G (12+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Xiaomi,Xiaomi 小米 10 5G (8+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Samsung,Samsung 三星 Galaxy S20 FE 5G (8+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Oppo,Oppo Ace2 5G (12+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Vivo,Vivo iQOO 5 5G (8+128GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Vivo,Vivo iQOO 5 5G (12+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Vivo,Vivo iQOO 5 Pro 5G 賽道版 (12+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+OnePlus,OnePlus 8 Pro 5G (12+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Xiaomi,Xiaomi 小米 10 至尊紀念版 5G (12+256GB),Snapdragon 865,Snapdragon 865,74,654578,939,3464,8,2840
+Oppo,Oppo Find X3 5G (8+128GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+Oppo,Oppo Reno6 Pro+ 5G (12+256GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+Xiaomi,Xiaomi 小米 12X 5G (12+256GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+黑鯊,黑鯊 4S 5G (12+256GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+Vivo,Vivo iQOO Neo5 SE 5G (8+128GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+realme,realme GT Neo2 5G (8+128GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+realme,realme GT Neo2 5G (12+256GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+Vivo,Vivo X60 5G (8+128GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+Vivo,Vivo X60 Pro 5G (12+256GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+Motorola,Motorola Edge S 5G (8+128GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+黑鯊,黑鯊 4S 5G (8+128GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+黑鯊,黑鯊 4S 5G (12+128GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+Vivo,Vivo iQOO Neo5 活力版 5G (8+128GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+Xiaomi,Xiaomi 小米 Redmi K40 5G (6+128GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+OnePlus,OnePlus 9R 5G (8+256GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+黑鯊,黑鯊 4 5G 電競遊戲手機 (6+128GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+OnePlus,OnePlus 9R 5G (8+128GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+ZTE,ZTE Axon 30 5G (6+128GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+Oppo,Oppo Reno6 Pro+ 5G (12+256GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+Oppo,Oppo Reno6 Pro+ 5G (8+128GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+OnePlus,OnePlus 9R 5G (12+256GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+realme,realme GT 大師探索版 (12+256GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+Oppo,Oppo Reno6 Pro+ 5G 柯南限定版 (12+256GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+黑鯊,黑鯊 4 5G 電競遊戲手機 (12+256GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+黑鯊,黑鯊 4 5G 電競遊戲手機 (8+128GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+Xiaomi,Xiaomi 小米 POCO F3 5G (8+256GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+Xiaomi,Xiaomi 小米 POCO F3 5G (6+128GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+Xiaomi,Xiaomi 小米 10S 5G (8+128GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+Vivo,Vivo iQOO Neo5 5G (12+256GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+Oppo,Oppo Find X3 5G (8+256GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+Motorola,Motorola Edge 20 Pro (12+256GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+Xiaomi,Xiaomi 小米 Redmi K40 5G (8+256GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+Xiaomi,Xiaomi 小米 Redmi K40 5G (12+256GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+黑鯊,黑鯊 4 5G 電競遊戲手機 (12+128GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+Xiaomi,Xiaomi 小米 12X 5G (8+256GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+Xiaomi,Xiaomi 小米 12X 5G (8+128GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+realme,realme GT Neo2 5G 龍珠定製版 (12+256GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+Xiaomi,Xiaomi 小米 Redmi K40 5G (8+128GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+Motorola,Motorola Moto G100 (8+128GB),Snapdragon 870,Snapdragon 870,78,697309,1009,3391,8,3200
+Vivo,Vivo iQOO 8 (12+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Samsung,Samsung 三星 Galaxy Z Fold3 5G (12+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Oppo,Oppo Find X3 Pro 攝影師版 5G (16+512GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Oppo,Oppo Find N 5G (8+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Samsung,Samsung 三星 Galaxy Z Fold3 5G (12+512GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+realme,realme GT 5G (8+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Xiaomi,Xiaomi 小米 11T Pro 5G (8+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+OnePlus,OnePlus 9 5G (12+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Honor,Honor 榮耀 Magic3 5G (8+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+OnePlus,OnePlus 9 Pro 5G (8+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Samsung,Samsung 三星 Galaxy Z Flip3 5G (8+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Vivo,Vivo iQOO 8 Pro 5G (12+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Samsung,Samsung 三星 Galaxy Z Fold3 5G Single Sim (12+512GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Samsung,Samsung 三星 Galaxy Z Flip3 5G (8+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Honor,Honor 榮耀 Magic3 Pro 5G (8+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Honor,Honor 榮耀 Magic3 至臻版 5G (12+512GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Vivo,Vivo X70 Pro+ 5G (8+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Vivo,Vivo iQOO 8 Pro 5G (8+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Vivo,Vivo iQOO Neo5S 5G (8+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Vivo,Vivo X60t Pro+ 5G (8+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Vivo,Vivo iQOO 8 (8+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Samsung,Samsung 三星 Galaxy Z Fold3 5G Single Sim (12+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Xiaomi,Xiaomi 小米 11T Pro 5G (8+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Samsung,Samsung 三星 Galaxy S21 5G (8+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Huawei,Huawei P50 Pocket 4G 藝術定制版 (12+512GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Nubia,Nubia RedMagic 紅魔 6R (8+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+OnePlus,OnePlus 9 Pro 5G (8+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Xiaomi,Xiaomi 小米 11 5G (12+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+ASUS,ASUS ROG Phone 5 5G (12+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Xiaomi,Xiaomi 小米 11 Pro 5G (8+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+ASUS,ASUS ROG Phone 5 5G (8+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Sharp,Sharp 聲寶 AQUOS R6 (12+128),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+ASUS,ASUS ROG Phone 5 Ultimate 5G (18+512GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Nubia,Nubia RedMagic 紅魔 6S Pro 5G (18+512GB) 戰地迷彩套裝,Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+ASUS,ASUS ROG Phone 5 Pro 5G (16+512GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+黑鯊,黑鯊 4 Pro (8+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Huawei,Huawei P50 Pocket 4G (8+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+ZTE,ZTE Axon 30 Ultra 5G (12+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Nubia,Nubia RedMagic 紅魔 6 5G (12+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Vivo,Vivo iQOO 7 5G (8+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Nubia,Nubia RedMagic 紅魔 6 Pro 5G (12+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Xiaomi,Xiaomi 小米 Redmi K40 Pro 5G (8+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Oppo,Oppo Find N 5G (12+512GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Nubia,Nubia RedMagic 紅魔 6S Pro 5G (12+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Xiaomi,Xiaomi 小米 11 Pro 5G (12+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Xiaomi,Xiaomi 小米 Mi 11i 5G (8+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Lenovo,Lenovo Legion 2 Pro 5G 拯救者電競手機 (16+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Lenovo,Lenovo Legion 2 Pro 5G 拯救者電競手機 (16+512GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Lenovo,Lenovo Legion 2 Pro 5G 拯救者電競手機 (18+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Lenovo,Lenovo Legion 2 Pro 5G 拯救者電競手機 (18+512GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Lenovo,Lenovo Legion 2 Pro 5G 拯救者電競手機 (12+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Lenovo,Lenovo Legion 2 Pro 5G 拯救者電競手機 (12+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Samsung,Samsung 三星 Galaxy S21 FE 5G (8+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Samsung,Samsung 三星 Galaxy S21 FE 5G (8+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Sony,Sony Xperia 1 III (12+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Sony,Sony Xperia 1 III (12+512GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Sony,Sony Xperia 5 III (8+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Xiaomi,Xiaomi 小米 Mix Fold 折疊屏手機 5G (12+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Oppo,Oppo Find X3 Pro 火星探索版 5G (16+512GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Vivo,Vivo X60 Pro+ 5G (8+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+realme,realme GT 5G (12+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Nubia,Nubia RedMagic 紅魔 6 Pro 5G (16+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Lenovo,Lenovo Legion 2 Pro 拯救者電競手機 高能限量版 (16+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Vivo,Vivo iQOO 7 5G (12+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+ASUS,ASUS ROG Phone 5 5G (16+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Nubia,Nubia RedMagic 紅魔 6 5G (8+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Leica,Leica Leitz phone 1 (12+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Xiaomi,Xiaomi 小米 11 5G (8+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Xiaomi,Xiaomi 小米 Mi 11i 5G (8+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Xiaomi,Xiaomi 小米 Redmi K40 Pro 5G (6+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Xiaomi,Xiaomi 小米 Redmi K40 Pro+ 5G (12+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Samsung,Samsung 三星 Galaxy S21 5G (8+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Nubia,Nubia RedMagic 紅魔 6S Pro 5G (16+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Samsung,Samsung 三星 Galaxy S21 Ultra 5G (12+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Samsung,Samsung 三星 Galaxy S21 Ultra 5G (16+512GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Nubia,Nubia RedMagic 紅魔 6S Pro 5G (16+256GB) 透明版,Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Samsung,Samsung 三星 Galaxy S21+ 5G (8+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+ASUS,ASUS Zenfone 8 (ZS590KS) (16+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+ASUS,ASUS Zenfone 8 Flip (ZS672KS) (8+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+ASUS,ASUS Zenfone 8 (ZS590KS) (12+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Sony,Sony Xperia PRO-I (12+512GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+ASUS,ASUS Zenfone 8 Flip (ZS672KS) (8+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+ASUS,ASUS Zenfone 8 (ZS590KS) (8+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+ASUS,ASUS Zenfone 8 (ZS590KS) (8+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+ASUS,ASUS ROG Phone 5 雙卡5G+5G (16+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Samsung,Samsung 三星 Galaxy S21 Ultra 5G (12+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Xiaomi,Xiaomi 小米 11 Pro 5G (8+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Samsung,Samsung 三星 Galaxy S21+ 5G (8+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+OnePlus,OnePlus 9 5G (8+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Xiaomi,Xiaomi 小米 11 Ultra 5G (12+512GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+OnePlus,OnePlus 9RT 5G (12+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Xiaomi,Xiaomi 小米 11 Ultra 5G (12+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+OnePlus,OnePlus 9 Pro 5G (12+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+ASUS,ASUS ROG Phone 5 5G (12+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Nubia,Nubia Z30 Pro 5G (8+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Xiaomi,Xiaomi 小米 Redmi K40 Pro 5G (8+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Xiaomi,Xiaomi 小米 11 5G (8+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Oppo,Oppo Find X3 Pro 5G (12+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+OnePlus,OnePlus 9RT 5G (8+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Vivo,Vivo X60 Pro+ 5G (12+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+OnePlus,OnePlus 9RT 5G (8+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Vivo,Vivo iQOO 7 5G (8+128GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Xiaomi,Xiaomi 小米 11 Ultra 5G (8+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840
+Nubia,Nubia RedMagic 紅魔6R (12+256GB),Snapdragon 888,Snapdragon 888,90,802285,1130,3705,8,2840

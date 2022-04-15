@@ -1,0 +1,6 @@
+selenium
+webdriver-manager
+pandas
+mysql-connector
+gcloud
+gcsfs

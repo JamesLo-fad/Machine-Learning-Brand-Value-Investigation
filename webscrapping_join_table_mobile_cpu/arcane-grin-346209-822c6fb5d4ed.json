@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "arcane-grin-346209",
+  "private_key_id": "822c6fb5d4edf3a3838ecfa9283bea4890c8611e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDG03PwNHVUJvKb\nXmTDgxBwGjhCpQ3hfybRpUa2Jcu2AO5kegrbGB1B7tuP/6s9qJacJZ2m08ok0lqD\nZP7flnKqaQV70TVaPgvIfue07EntGY4l0UTlEsZJwdRX9zfxiyB2KY4KYkAyncxn\n0IgPUOSSp+t1CqB7u++hAkkmcDjlYiaS4veZE+tM9Ny/eFDu6Rir7dPHichz92Nc\nzr6Uv1fNhDVj2129/8GEtJW/warJyHjtWvX3yZ0TMrl5U26x1pufAPgfkC4GJqAf\niqeqOdmqRd/WrmK+1lR6u+GrABUrN2+mttVrxdwfH+q8tJu5fGZmnI6q0vuDO5VZ\nzuBwf7o7AgMBAAECggEAHuJRrAo5/2xdWwz6kfQV5ZPtEU0aLuDVYtNNfJW6Yvca\nELl0XjwMr2Uu7dtE+jrpyi99oaBcUgPq02YowQpZnWba1zTUGMRyiB5OV6gsg4vo\nrK8pCHw2GNbm6RMZuYdm73PdAHfqiPJCAg4+VEK4fp9ez7tq2k2DF3uHaVUdQWQL\nYrFnpZZ8k7YlUC5aWvkZBQkgz06jDn4CTTqoxBpnhZxVniZOC45ekfAnZ4/9yOZk\n8CJEpEdzy8RuiD8olodQ6U92XjGoNJJxgP0GOaMQFuES16jLfoPytgbUyC1WpC2G\ndyQlpdaXBGTcIuXOOyEiUAy/4rYDsEJhuF9wxyp+IQKBgQDxObIzYNcmX6gOYWP6\nNuHknRhLJB0Xt39SpZhrEhLIsU3UxtmcRPHgn2llMp3El33J07fPTzbJBGCiGx+A\nGe6Kvle+1OsgU9Rk761Ui0OyT6gbs0q93WwabixfpIrtl7Mmy2PwE1GFGZaJ2GeP\nRT3lKXsXRbaY60WLQiYe0IGghwKBgQDTAPQnH9dSGWPqeVj6Pm3nwe4H+T3Bm1kq\nFVb3tBWVcmvPTL0MXXt3q+OmP4AbFYTHR1MptnPYTWGs06YUeSDpu4i906WYwXGQ\nGUTZ2AN9G545zzR9KkF1C53SUgwrQonAI5T2mNNgGahYwAo6meFsYxOWMFqwscKw\nZeN4u5KJrQKBgHXk+uD9bWmFyr7sfk5l0FVJKfxfdBCJUCL2Z928gY2wihd58BTd\n5VEg2APrjwvr9kBTxzv8vQvVpdzUYLrc8abBjGTp7thn4CBMu2vcfIODRufy4o6U\nzybDvdAovPWN9LL7KKbG6kqgzOAl8ccl0jBT66LeIXXvVpfPBo583T21AoGAFzAJ\npKsJHIqRwlingIiPx2I2aEXplXce61MBBaOSo6O5WUSTmeJECTiogcKEr3VD7CpY\nZ0MXo/ONAlMX8zQEe+sR8dpqXkkT08QTHuVwLLV2Q+ATYpXcL6KhK1W85JwhSy4d\n1qOgxvTK3UXtWddDQIf6xQx3Sued/4iS4NesGNkCgYBmwKrV+tBLDjRBSFE6FsNa\n0b24tIZqUwuluE7qUfEKaBVkBSzD/w1cqTezzmMdwHTXrLf54FVMiYLvAco4+xXt\nQ46Q7gz/w94v3rULTYsXRfR5zm67E3QtdqA4QRlbHwVrrD8mwy1r1ezlRFwUQP2C\nUNtJ5sOE3C5Yp2iUNXVzYw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "waiwai@arcane-grin-346209.iam.gserviceaccount.com",
+  "client_id": "106773066587916021778",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/waiwai%40arcane-grin-346209.iam.gserviceaccount.com"
+}
