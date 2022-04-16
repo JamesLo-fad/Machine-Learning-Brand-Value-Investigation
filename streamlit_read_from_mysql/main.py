@@ -12,6 +12,12 @@ from sklearn.datasets import make_blobs
 from sklearn.cluster import KMeans
 from scipy.cluster.vq import kmeans
 from sklearn.preprocessing import OneHotEncoder
+from sklearn.preprocessing import MinMaxScaler
+from sklearn.model_selection import train_test_split
+from sklearn.naive_bayes import GaussianNB
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import mean_squared_error
+
 #1.loading data from MySQL######################################################################################
 
 @st.cache(allow_output_mutation=True)
@@ -192,7 +198,30 @@ if add_selectbox == 'Machine_Learning':
     if st.checkbox(label="Raw data"):
         st.write(cpu_rating)
     enc = OneHotEncoder()
-    one_hot_features = pd.DataFrame(enc.fit_transform(cpu_rating[['Processor_brand']]).toarray(),
+    one_hot_features = pd.DataFrame(enc.fit_transform(cpu_rating[['處理器','Processor_brand']]).toarray(),
                                     columns=enc.get_feature_names_out())
     machine = pd.concat([cpu_rating, one_hot_features], axis=1)
-    st.write(machine)
+    main_menu = machine.iloc[:, 4:-1].drop('上市年份', 1)
+    scaler = MinMaxScaler()
+    X_model = scaler.fit(main_menu.drop('價格',1))
+    Y_model = main_menu[['價格']]
+    X_model = scaler.transform(main_menu.drop('價格',1))
+    X_train, X_test, y_train, y_test = train_test_split(X_model, Y_model)
+    classifier = RandomForestClassifier()
+    classifier.fit(X_train, y_train)
+    y_pred = classifier.predict(X_test)
+    concat_01 = pd.DataFrame(y_test).reset_index()
+    concat_02 = pd.DataFrame(y_pred)
+    comparison = pd.concat([concat_01, concat_02],axis=1,ignore_index=True)
+    comparison = comparison.drop([0], axis=1).rename({1:'Real data', 2:'Prediction'}, axis=1)
+    st.subheader("Price prediction for All")
+    st.write(comparison)
+    st.subheader('Mean square error')
+    rms = np.sqrt(mean_squared_error(y_test, y_pred))
+    st.write(rms)
+    st.subheader('Features Importance Rank(Top 10)')
+    feature_pd = pd.DataFrame(classifier.feature_importances_).reset_index(drop=True)
+    columns_name = pd.DataFrame(main_menu.drop('價格',1).columns).reset_index(drop=True)
+    feature = pd.concat([columns_name, feature_pd],axis=1,ignore_index=True).sort_values(1,ascending=False).head(10)
+    feature = feature.rename({0: 'Feature name', 1: 'Contribution'}, axis=1)
+    st.table(feature)
