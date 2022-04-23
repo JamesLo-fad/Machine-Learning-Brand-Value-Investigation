@@ -197,31 +197,54 @@ if add_selectbox == 'Machine_Learning':
     st.subheader("Machine Learning")
     if st.checkbox(label="Raw data"):
         st.write(cpu_rating)
+    #a. one hot encoder####################################################################################
     enc = OneHotEncoder()
-    one_hot_features = pd.DataFrame(enc.fit_transform(cpu_rating[['處理器','Processor_brand']]).toarray(),
+    one_hot_features = pd.DataFrame(enc.fit_transform(cpu_rating[['品牌']]).toarray(),
                                     columns=enc.get_feature_names_out())
     machine = pd.concat([cpu_rating, one_hot_features], axis=1)
     main_menu = machine.iloc[:, 4:-1].drop('上市年份', 1)
-    scaler = MinMaxScaler()
-    X_model = scaler.fit(main_menu.drop('價格',1))
+    X_parameter = main_menu.drop(['價格','Rating'],1)
     Y_model = main_menu[['價格']]
-    X_model = scaler.transform(main_menu.drop('價格',1))
-    X_train, X_test, y_train, y_test = train_test_split(X_model, Y_model)
+    #b. narrow x parameters####################################################################################
+    scaler = MinMaxScaler()
+    X_model = scaler.fit(X_parameter)
+    X_model = scaler.transform(X_parameter)
+    X_pd = pd.DataFrame(X_model,columns=scaler.get_feature_names_out(input_features=None))
+    st.write(X_pd,type(X_pd))
+    #c. machine learning####################################################################################
+    X_train, X_test, y_train, y_test = train_test_split(X_pd, Y_model)
     classifier = RandomForestClassifier()
     classifier.fit(X_train, y_train)
     y_pred = classifier.predict(X_test)
     concat_01 = pd.DataFrame(y_test).reset_index()
     concat_02 = pd.DataFrame(y_pred)
     comparison = pd.concat([concat_01, concat_02],axis=1,ignore_index=True)
+    def diff(row):
+        output = abs(row['Prediction']-row['Real data'])
+        return output
     comparison = comparison.drop([0], axis=1).rename({1:'Real data', 2:'Prediction'}, axis=1)
-    st.subheader("Price prediction for All")
+    comparison['Prediction'] = comparison['Prediction'].astype(int)
+    comparison['Real data'] = comparison['Real data'].astype(int)
+    comparison['Error'] = comparison.apply(diff,axis=1)
     st.write(comparison)
+    #d. MSE and Feature importance####################################################################################
     st.subheader('Mean square error')
-    rms = np.sqrt(mean_squared_error(y_test, y_pred))
-    st.write(rms)
+    rms = np.sqrt(mean_squared_error(y_test, y_pred,squared=False))
+    st.latex(rms)
     st.subheader('Features Importance Rank(Top 10)')
-    feature_pd = pd.DataFrame(classifier.feature_importances_).reset_index(drop=True)
-    columns_name = pd.DataFrame(main_menu.drop('價格',1).columns).reset_index(drop=True)
+    feature_pd = pd.DataFrame(classifier.feature_importances_).reset_index(drop=True).astype(float)
+    columns_name = pd.DataFrame(X_pd.columns).reset_index(drop=True)
     feature = pd.concat([columns_name, feature_pd],axis=1,ignore_index=True).sort_values(1,ascending=False).head(10)
     feature = feature.rename({0: 'Feature name', 1: 'Contribution'}, axis=1)
     st.table(feature)
+    #####################################################################################
+    # fig = plt.figure(figsize=(20, 10))
+    # sns.scatterplot(x="AnTuTu_9", y="Processor_brand", data=cpu_rating)
+    # st.pyplot(fig)
+    # fig = plt.figure(figsize=(20, 10))
+    # sns.scatterplot(x="Geekbench_5_single", y="Processor_brand", data=cpu_rating)
+    # st.pyplot(fig)
+    # fig = plt.figure(figsize=(20, 10))
+    # sns.scatterplot(x="Geekbench_5_multi", y="Processor_brand", data=cpu_rating)
+    # st.pyplot(fig)
+
